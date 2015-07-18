@@ -1,0 +1,2010 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-07-17T22:28:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/8916498",
+      "properties": {
+        "@id": "way/8916498",
+        "highway": "residential",
+        "name": "Washburn Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Washburn",
+        "tiger:name_type": "St",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "192295605",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2010-03-27T15:16:19Z",
+        "@version": "5",
+        "@changeset": "4245371",
+        "@user": "balrog-kun",
+        "@uid": "20587"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4151451,
+            37.7758918
+          ],
+          [
+            -122.4135916,
+            37.7746549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8916932",
+      "properties": {
+        "@id": "way/8916932",
+        "highway": "residential",
+        "name": "Jessie Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Jessie",
+        "tiger:name_type": "St",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "192287253",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2010-03-27T15:17:26Z",
+        "@version": "4",
+        "@changeset": "4245371",
+        "@user": "balrog-kun",
+        "@uid": "20587"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4165267,
+            37.7757638
+          ],
+          [
+            -122.4153236,
+            37.776716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8917500",
+      "properties": {
+        "@id": "way/8917500",
+        "highway": "residential",
+        "name": "Minna Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Minna",
+        "tiger:name_type": "St",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "192287268:192287236",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2011-04-30T07:42:19Z",
+        "@version": "6",
+        "@changeset": "8009302",
+        "@user": "KindredCoda",
+        "@uid": "14293"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4153843,
+            37.7748526
+          ],
+          [
+            -122.4164947,
+            37.7739688
+          ],
+          [
+            -122.4165917,
+            37.7739012
+          ],
+          [
+            -122.4166796,
+            37.7738346
+          ],
+          [
+            -122.4174744,
+            37.7731402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8917801",
+      "properties": {
+        "@id": "way/8917801",
+        "highway": "service",
+        "name": "Natoma Street",
+        "oneway": "yes",
+        "service": "alley",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Natoma",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2013-06-23T15:51:13Z",
+        "@version": "8",
+        "@changeset": "16671485",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4137148,
+            37.7754395
+          ],
+          [
+            -122.4121666,
+            37.7766543
+          ],
+          [
+            -122.4099452,
+            37.7784197
+          ],
+          [
+            -122.4088288,
+            37.7793049
+          ],
+          [
+            -122.4077205,
+            37.7801802
+          ],
+          [
+            -122.4062621,
+            37.7813142
+          ],
+          [
+            -122.4054874,
+            37.7819275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8917959",
+      "properties": {
+        "@id": "way/8917959",
+        "highway": "residential",
+        "name": "Laskie Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Laskie",
+        "tiger:name_type": "St",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "192287254",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2010-03-27T15:19:46Z",
+        "@version": "3",
+        "@changeset": "4245371",
+        "@user": "balrog-kun",
+        "@uid": "20587"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4148936,
+            37.7773181
+          ],
+          [
+            -122.4141196,
+            37.776705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8919605",
+      "properties": {
+        "@id": "way/8919605",
+        "highway": "service",
+        "name": "Tehama Street",
+        "oneway": "yes",
+        "service": "alley",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Tehama",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2013-06-23T15:51:13Z",
+        "@version": "5",
+        "@changeset": "16671485",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4110783,
+            37.7757867
+          ],
+          [
+            -122.4126224,
+            37.7745686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8919794",
+      "properties": {
+        "@id": "way/8919794",
+        "highway": "residential",
+        "name": "Grace Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Grace",
+        "tiger:name_type": "St",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "192292370",
+        "tiger:zip_left": "94103",
+        "@timestamp": "2011-05-03T00:44:25Z",
+        "@version": "5",
+        "@changeset": "8035660",
+        "@user": "KindredCoda",
+        "@uid": "14293"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4139536,
+            37.7743701
+          ],
+          [
+            -122.4155087,
+            37.7756024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8919948",
+      "properties": {
+        "@id": "way/8919948",
+        "highway": "residential",
+        "name": "Dore Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Dore",
+        "tiger:name_type": "St",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "192287395:192287381",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2011-04-30T00:44:14Z",
+        "@version": "5",
+        "@changeset": "8007967",
+        "@user": "KindredCoda",
+        "@uid": "14293"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.413769,
+            37.774516
+          ],
+          [
+            -122.4122354,
+            37.773293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8920107",
+      "properties": {
+        "@id": "way/8920107",
+        "highway": "residential",
+        "name": "Rausch Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Rausch",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2013-10-21T00:28:50Z",
+        "@version": "5",
+        "@changeset": "18461495",
+        "@user": "StellanL",
+        "@uid": "28775"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4089666,
+            37.775876
+          ],
+          [
+            -122.409498,
+            37.776304
+          ],
+          [
+            -122.410506,
+            37.777092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8920724",
+      "properties": {
+        "@id": "way/8920724",
+        "highway": "service",
+        "name": "Clementina Street",
+        "service": "alley",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Clementina",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2013-07-02T08:33:51Z",
+        "@version": "5",
+        "@changeset": "16788077",
+        "@user": "vonvonvon",
+        "@uid": "190493"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.409842,
+            37.776015
+          ],
+          [
+            -122.409997,
+            37.775893
+          ],
+          [
+            -122.410503,
+            37.775494
+          ],
+          [
+            -122.4106197,
+            37.7754212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8921556",
+      "properties": {
+        "@id": "way/8921556",
+        "highway": "residential",
+        "name": "Ringold Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Ringold",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2013-10-21T00:28:46Z",
+        "@version": "4",
+        "@changeset": "18461495",
+        "@user": "StellanL",
+        "@uid": "28775"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4095247,
+            37.7745483
+          ],
+          [
+            -122.4105117,
+            37.7737685
+          ],
+          [
+            -122.4110742,
+            37.7733304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8922170",
+      "properties": {
+        "@id": "way/8922170",
+        "highway": "service",
+        "name": "Sumner Street",
+        "service": "alley",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Sumner",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2013-07-02T08:33:51Z",
+        "@version": "4",
+        "@changeset": "16788077",
+        "@user": "vonvonvon",
+        "@uid": "190493"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.411014,
+            37.77669
+          ],
+          [
+            -122.409997,
+            37.775893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24306388",
+      "properties": {
+        "@id": "way/24306388",
+        "highway": "service",
+        "name": "Minna Street",
+        "oneway": "yes",
+        "service": "alley",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2013-06-23T15:51:12Z",
+        "@version": "10",
+        "@changeset": "16671485",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4059611,
+            37.7823053
+          ],
+          [
+            -122.4067319,
+            37.7816914
+          ],
+          [
+            -122.4081852,
+            37.7805494
+          ],
+          [
+            -122.4092889,
+            37.7796714
+          ],
+          [
+            -122.4104014,
+            37.7787847
+          ],
+          [
+            -122.41187,
+            37.777619
+          ],
+          [
+            -122.4126251,
+            37.7770197
+          ],
+          [
+            -122.4141714,
+            37.7758023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24335439",
+      "properties": {
+        "@id": "way/24335439",
+        "cycleway": "lane",
+        "highway": "residential",
+        "lcn_ref": "25;30",
+        "name": "11th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "11th",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "trolley_wire": "yes",
+        "@timestamp": "2014-01-02T07:53:08Z",
+        "@version": "10",
+        "@changeset": "19757492",
+        "@user": "Clorox",
+        "@uid": "119881"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4155785,
+            37.7730974
+          ],
+          [
+            -122.4161272,
+            37.7735327
+          ],
+          [
+            -122.4165917,
+            37.7739012
+          ],
+          [
+            -122.4171256,
+            37.7743254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25657409",
+      "properties": {
+        "@id": "way/25657409",
+        "cycleway:right": "lane",
+        "highway": "primary",
+        "lanes": "4",
+        "lcn_ref": "30",
+        "maxspeed": "25 mph",
+        "name": "Folsom Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Folsom",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94110",
+        "tiger:zip_right": "94110",
+        "@timestamp": "2015-06-02T03:42:34Z",
+        "@version": "31",
+        "@changeset": "31653441",
+        "@user": "AndrewSnow",
+        "@uid": "371121"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4140462,
+            37.7718632
+          ],
+          [
+            -122.4134392,
+            37.7723425
+          ],
+          [
+            -122.4128343,
+            37.7728201
+          ],
+          [
+            -122.4122354,
+            37.773293
+          ],
+          [
+            -122.4116275,
+            37.773773
+          ],
+          [
+            -122.4100825,
+            37.774993
+          ],
+          [
+            -122.4094917,
+            37.7754594
+          ],
+          [
+            -122.4089666,
+            37.775876
+          ],
+          [
+            -122.4088563,
+            37.7759611
+          ],
+          [
+            -122.4083921,
+            37.7763276
+          ],
+          [
+            -122.407854,
+            37.7767525
+          ],
+          [
+            -122.4073136,
+            37.7771792
+          ],
+          [
+            -122.4070353,
+            37.777399
+          ],
+          [
+            -122.4067445,
+            37.7776285
+          ],
+          [
+            -122.406452,
+            37.7778595
+          ],
+          [
+            -122.4061601,
+            37.77809
+          ],
+          [
+            -122.4060691,
+            37.7781618
+          ],
+          [
+            -122.4056272,
+            37.7785107
+          ],
+          [
+            -122.4044406,
+            37.7794476
+          ],
+          [
+            -122.4036684,
+            37.7800573
+          ],
+          [
+            -122.4035178,
+            37.7801762
+          ],
+          [
+            -122.403403,
+            37.7802668
+          ],
+          [
+            -122.4011758,
+            37.7820253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27029263",
+      "properties": {
+        "@id": "way/27029263",
+        "highway": "secondary",
+        "name": "Mission Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Mission",
+        "tiger:name_type": "St",
+        "trolley_wire": "yes",
+        "@timestamp": "2014-01-02T07:52:16Z",
+        "@version": "6",
+        "@changeset": "19757492",
+        "@user": "Clorox",
+        "@uid": "119881"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.415916,
+            37.7752717
+          ],
+          [
+            -122.4171256,
+            37.7743254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27029264",
+      "properties": {
+        "@id": "way/27029264",
+        "highway": "primary",
+        "lcn_ref": "25",
+        "maxspeed": "30 mph",
+        "name": "10th Street",
+        "old_ref": "US 101",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "10th",
+        "tiger:name_type": "St",
+        "trolley_wire": "yes",
+        "@timestamp": "2014-04-22T19:10:51Z",
+        "@version": "9",
+        "@changeset": "21869891",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.415916,
+            37.7752717
+          ],
+          [
+            -122.4153843,
+            37.7748526
+          ],
+          [
+            -122.4149212,
+            37.7744848
+          ],
+          [
+            -122.414368,
+            37.774043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27029265",
+      "properties": {
+        "@id": "way/27029265",
+        "highway": "primary",
+        "maxspeed": "30 mph",
+        "name": "10th Street",
+        "old_ref": "US 101",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "10th",
+        "tiger:name_type": "St",
+        "@timestamp": "2014-04-22T19:10:51Z",
+        "@version": "7",
+        "@changeset": "21869891",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.414368,
+            37.774043
+          ],
+          [
+            -122.413763,
+            37.77356
+          ],
+          [
+            -122.4128343,
+            37.7728201
+          ],
+          [
+            -122.411897,
+            37.772073
+          ],
+          [
+            -122.4112871,
+            37.7715867
+          ],
+          [
+            -122.4109048,
+            37.7712813
+          ],
+          [
+            -122.4097666,
+            37.7703371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47170567",
+      "properties": {
+        "@id": "way/47170567",
+        "highway": "residential",
+        "name": "Natoma Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Natoma",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "192287270:192291595:192287272:192287277",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2010-03-28T11:35:49Z",
+        "@version": "2",
+        "@changeset": "4254597",
+        "@user": "balrog-kun",
+        "@uid": "20587"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4169304,
+            37.7728161
+          ],
+          [
+            -122.4161272,
+            37.7735327
+          ],
+          [
+            -122.4149212,
+            37.7744848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47172111",
+      "properties": {
+        "@id": "way/47172111",
+        "highway": "service",
+        "name": "Clementina Street",
+        "oneway": "yes",
+        "service": "alley",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Clementina",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2013-06-23T15:51:12Z",
+        "@version": "3",
+        "@changeset": "16671485",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4121657,
+            37.7742034
+          ],
+          [
+            -122.411053,
+            37.77508
+          ],
+          [
+            -122.410862,
+            37.77523
+          ],
+          [
+            -122.4106197,
+            37.7754212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88572874",
+      "properties": {
+        "@id": "way/88572874",
+        "highway": "secondary",
+        "name": "Mission Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Mission",
+        "tiger:name_type": "St",
+        "trolley_wire": "yes",
+        "@timestamp": "2014-01-02T07:52:21Z",
+        "@version": "2",
+        "@changeset": "19757492",
+        "@user": "Clorox",
+        "@uid": "119881"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4147161,
+            37.7762333
+          ],
+          [
+            -122.4151451,
+            37.7758918
+          ],
+          [
+            -122.4155087,
+            37.7756024
+          ],
+          [
+            -122.415916,
+            37.7752717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88572887",
+      "properties": {
+        "@id": "way/88572887",
+        "highway": "secondary",
+        "name": "Mission Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Mission",
+        "tiger:name_type": "St",
+        "trolley_wire": "yes",
+        "@timestamp": "2014-10-22T19:58:48Z",
+        "@version": "4",
+        "@changeset": "26264194",
+        "@user": "Jfact0ry",
+        "@uid": "1747214"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4131717,
+            37.7774546
+          ],
+          [
+            -122.4141196,
+            37.776705
+          ],
+          [
+            -122.4147161,
+            37.7762333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88572943",
+      "properties": {
+        "@id": "way/88572943",
+        "highway": "primary",
+        "name": "9th Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "9th",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "trolley_wire": "yes",
+        "@timestamp": "2015-07-14T21:31:36Z",
+        "@version": "8",
+        "@changeset": "32639063",
+        "@user": "nvk",
+        "@uid": "131996"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4147161,
+            37.7762333
+          ],
+          [
+            -122.4151767,
+            37.7765993
+          ],
+          [
+            -122.4153236,
+            37.776716
+          ],
+          [
+            -122.415742,
+            37.7770472
+          ],
+          [
+            -122.4163119,
+            37.7774969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89624695",
+      "properties": {
+        "@id": "way/89624695",
+        "highway": "primary",
+        "lcn_ref": "25",
+        "maxspeed": "30 mph",
+        "name": "10th Street",
+        "old_ref": "US 101",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "10th",
+        "tiger:name_type": "St",
+        "@timestamp": "2014-05-28T04:51:57Z",
+        "@version": "8",
+        "@changeset": "22593462",
+        "@user": "oba510",
+        "@uid": "933797"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.417533,
+            37.7765378
+          ],
+          [
+            -122.4173058,
+            37.7763916
+          ],
+          [
+            -122.4169233,
+            37.7760834
+          ],
+          [
+            -122.4165267,
+            37.7757638
+          ],
+          [
+            -122.4164474,
+            37.7756999
+          ],
+          [
+            -122.415916,
+            37.7752717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91181768",
+      "properties": {
+        "@id": "way/91181768",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lcn_ref": "30",
+        "maxspeed": "25 mph",
+        "name": "Howard Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Howard",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "trolley_wire": "yes",
+        "@timestamp": "2014-04-22T19:08:27Z",
+        "@version": "6",
+        "@changeset": "21869891",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4131572,
+            37.7749964
+          ],
+          [
+            -122.4135916,
+            37.7746549
+          ],
+          [
+            -122.413769,
+            37.774516
+          ],
+          [
+            -122.4139536,
+            37.7743701
+          ],
+          [
+            -122.414368,
+            37.774043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91181769",
+      "properties": {
+        "@id": "way/91181769",
+        "highway": "primary",
+        "name": "9th Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "9th",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2014-02-22T23:26:23Z",
+        "@version": "2",
+        "@changeset": "20723664",
+        "@user": "phoenix23",
+        "@uid": "383461"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4131572,
+            37.7749964
+          ],
+          [
+            -122.4137148,
+            37.7754395
+          ],
+          [
+            -122.4141714,
+            37.7758023
+          ],
+          [
+            -122.4147161,
+            37.7762333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91181771",
+      "properties": {
+        "@id": "way/91181771",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "4",
+        "lcn_ref": "30",
+        "maxspeed": "25 mph",
+        "name": "Howard Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Howard",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "trolley_wire": "yes",
+        "@timestamp": "2014-11-09T06:26:43Z",
+        "@version": "10",
+        "@changeset": "26656594",
+        "@user": "StellanL",
+        "@uid": "28775"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3960285,
+            37.7885423
+          ],
+          [
+            -122.3964841,
+            37.7881791
+          ],
+          [
+            -122.3967214,
+            37.7879899
+          ],
+          [
+            -122.3974858,
+            37.7873803
+          ],
+          [
+            -122.3979372,
+            37.7870271
+          ],
+          [
+            -122.3982588,
+            37.786773
+          ],
+          [
+            -122.3989843,
+            37.7862063
+          ],
+          [
+            -122.3993791,
+            37.7858875
+          ],
+          [
+            -122.3998839,
+            37.7854778
+          ],
+          [
+            -122.4004765,
+            37.785012
+          ],
+          [
+            -122.4006494,
+            37.7848738
+          ],
+          [
+            -122.4011256,
+            37.7844997
+          ],
+          [
+            -122.4011912,
+            37.7844482
+          ],
+          [
+            -122.4018625,
+            37.7839145
+          ],
+          [
+            -122.4020251,
+            37.783786
+          ],
+          [
+            -122.4024182,
+            37.7834778
+          ],
+          [
+            -122.4026235,
+            37.7833168
+          ],
+          [
+            -122.4027076,
+            37.7832509
+          ],
+          [
+            -122.4032994,
+            37.7827765
+          ],
+          [
+            -122.4049417,
+            37.7814932
+          ],
+          [
+            -122.4057232,
+            37.7808758
+          ],
+          [
+            -122.4071627,
+            37.7797361
+          ],
+          [
+            -122.4077053,
+            37.7792988
+          ],
+          [
+            -122.4082752,
+            37.7788519
+          ],
+          [
+            -122.4088393,
+            37.7784094
+          ],
+          [
+            -122.409388,
+            37.7779762
+          ],
+          [
+            -122.409923,
+            37.777553
+          ],
+          [
+            -122.410506,
+            37.777092
+          ],
+          [
+            -122.411014,
+            37.77669
+          ],
+          [
+            -122.4116146,
+            37.7762143
+          ],
+          [
+            -122.4131572,
+            37.7749964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/111050389",
+      "properties": {
+        "@id": "way/111050389",
+        "bicycle": "designated",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "4",
+        "lcn_ref": "23",
+        "maxspeed": "30 mph",
+        "name": "8th Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "8th",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2014-04-22T19:11:04Z",
+        "@version": "7",
+        "@changeset": "21869891",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4131717,
+            37.7774546
+          ],
+          [
+            -122.4126251,
+            37.7770197
+          ],
+          [
+            -122.4121666,
+            37.7766543
+          ],
+          [
+            -122.4116146,
+            37.7762143
+          ],
+          [
+            -122.4110783,
+            37.7757867
+          ],
+          [
+            -122.4106197,
+            37.7754212
+          ],
+          [
+            -122.4100825,
+            37.774993
+          ],
+          [
+            -122.4095247,
+            37.7745483
+          ],
+          [
+            -122.4090934,
+            37.7742035
+          ],
+          [
+            -122.4085358,
+            37.7737601
+          ],
+          [
+            -122.4084455,
+            37.7736881
+          ],
+          [
+            -122.4077736,
+            37.7731526
+          ],
+          [
+            -122.407267,
+            37.7727201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133781720",
+      "properties": {
+        "@id": "way/133781720",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lcn_ref": "25;30",
+        "maxspeed": "25 mph",
+        "name": "Howard Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "Howard",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "trolley_wire": "yes",
+        "@timestamp": "2014-04-22T19:08:24Z",
+        "@version": "4",
+        "@changeset": "21869891",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.414368,
+            37.774043
+          ],
+          [
+            -122.4155785,
+            37.7730974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148546231",
+      "properties": {
+        "@id": "way/148546231",
+        "highway": "footway",
+        "@timestamp": "2012-04-20T09:04:45Z",
+        "@version": "2",
+        "@changeset": "11361726",
+        "@user": "KindredCoda",
+        "@uid": "14293"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.415742,
+            37.7770472
+          ],
+          [
+            -122.4152381,
+            37.7774368
+          ],
+          [
+            -122.4152827,
+            37.7778159
+          ],
+          [
+            -122.4155978,
+            37.7780613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256787755",
+      "properties": {
+        "@id": "way/256787755",
+        "highway": "primary",
+        "name": "9th Street",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "San Francisco, CA",
+        "tiger:name_base": "9th",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "94103",
+        "tiger:zip_right": "94103",
+        "@timestamp": "2014-02-22T23:26:21Z",
+        "@version": "2",
+        "@changeset": "20723664",
+        "@user": "phoenix23",
+        "@uid": "383461"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4085367,
+            37.7713009
+          ],
+          [
+            -122.4090815,
+            37.7717367
+          ],
+          [
+            -122.4100831,
+            37.7725377
+          ],
+          [
+            -122.4106921,
+            37.7730249
+          ],
+          [
+            -122.4110742,
+            37.7733304
+          ],
+          [
+            -122.4116275,
+            37.773773
+          ],
+          [
+            -122.4121657,
+            37.7742034
+          ],
+          [
+            -122.4126224,
+            37.7745686
+          ],
+          [
+            -122.4131572,
+            37.7749964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65283737",
+      "properties": {
+        "@id": "node/65283737",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-21T08:04:14Z",
+        "@version": "9",
+        "@changeset": "31336567",
+        "@user": "Minh Nguyen",
+        "@uid": "33757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4085367,
+          37.7713009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65297954",
+      "properties": {
+        "@id": "node/65297954",
+        "turn_restrictions": "no",
+        "@timestamp": "2011-05-03T00:44:19Z",
+        "@version": "5",
+        "@changeset": "8035660",
+        "@user": "KindredCoda",
+        "@uid": "14293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4151451,
+          37.7758918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65347696",
+      "properties": {
+        "@id": "node/65347696",
+        "turn_restrictions": "no",
+        "@timestamp": "2011-05-03T00:44:14Z",
+        "@version": "5",
+        "@changeset": "8035660",
+        "@user": "KindredCoda",
+        "@uid": "14293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4155087,
+          37.7756024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65351748",
+      "properties": {
+        "@id": "node/65351748",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-05-28T04:51:54Z",
+        "@version": "6",
+        "@changeset": "22593462",
+        "@user": "oba510",
+        "@uid": "933797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415916,
+          37.7752717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65339089",
+      "properties": {
+        "@id": "node/65339089",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-06-30T16:43:42Z",
+        "@version": "7",
+        "@changeset": "32313154",
+        "@user": "mpmckenna8",
+        "@uid": "1213904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4147161,
+          37.7762333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2732023123",
+      "properties": {
+        "@id": "node/2732023123",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "149",
+        "addr:postcode": "94103",
+        "addr:street": "9th Street",
+        "addr:unit": "404",
+        "name": "Mapbox",
+        "name:ja": "マップボックス",
+        "office": "company",
+        "@timestamp": "2015-07-14T21:31:30Z",
+        "@version": "5",
+        "@changeset": "32639063",
+        "@user": "nvk",
+        "@uid": "131996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4151767,
+          37.7765993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65326536",
+      "properties": {
+        "@id": "node/65326536",
+        "turn_restrictions": "no",
+        "@timestamp": "2011-05-03T00:44:17Z",
+        "@version": "5",
+        "@changeset": "8035660",
+        "@user": "KindredCoda",
+        "@uid": "14293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4141196,
+          37.776705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65363166",
+      "properties": {
+        "@id": "node/65363166",
+        "highway": "traffic_signals",
+        "@timestamp": "2011-05-03T00:44:19Z",
+        "@version": "6",
+        "@changeset": "8035660",
+        "@user": "KindredCoda",
+        "@uid": "14293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4131717,
+          37.7774546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65303704",
+      "properties": {
+        "@id": "node/65303704",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-06-14T21:08:04Z",
+        "@version": "5",
+        "@changeset": "16556160",
+        "@user": "JeffM8",
+        "@uid": "597941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409388,
+          37.7779762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65306827",
+      "properties": {
+        "@id": "node/65306827",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-06-14T21:08:04Z",
+        "@version": "5",
+        "@changeset": "16556160",
+        "@user": "JeffM8",
+        "@uid": "597941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4116146,
+          37.7762143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65306838",
+      "properties": {
+        "@id": "node/65306838",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-08-11T02:13:42Z",
+        "@version": "4",
+        "@changeset": "17298314",
+        "@user": "andrewpmk",
+        "@uid": "1679"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414368,
+          37.774043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65303706",
+      "properties": {
+        "@id": "node/65303706",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-10-21T00:28:45Z",
+        "@version": "9",
+        "@changeset": "18461495",
+        "@user": "StellanL",
+        "@uid": "28775"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.407854,
+          37.7767525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65317551",
+      "properties": {
+        "@id": "node/65317551",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-19T02:03:15Z",
+        "@version": "10",
+        "@changeset": "31272396",
+        "@user": "AndrewSnow",
+        "@uid": "371121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4067445,
+          37.7776285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65293760",
+      "properties": {
+        "@id": "node/65293760",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-10-21T00:28:44Z",
+        "@version": "9",
+        "@changeset": "18461495",
+        "@user": "StellanL",
+        "@uid": "28775"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4056272,
+          37.7785107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65306804",
+      "properties": {
+        "@id": "node/65306804",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-04-16T06:39:24Z",
+        "@version": "7",
+        "@changeset": "21723454",
+        "@user": "CoreyFarwell",
+        "@uid": "25663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4027076,
+          37.7832509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65317544",
+      "properties": {
+        "@id": "node/65317544",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-04-16T06:39:24Z",
+        "@version": "10",
+        "@changeset": "21723454",
+        "@user": "CoreyFarwell",
+        "@uid": "25663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403403,
+          37.7802668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65317542",
+      "properties": {
+        "@id": "node/65317542",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-04-16T06:39:24Z",
+        "@version": "9",
+        "@changeset": "21723454",
+        "@user": "CoreyFarwell",
+        "@uid": "25663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4011758,
+          37.7820253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65306795",
+      "properties": {
+        "@id": "node/65306795",
+        "highway": "traffic_signals",
+        "turn_restrictions": "no",
+        "@timestamp": "2010-12-08T23:00:09Z",
+        "@version": "8",
+        "@changeset": "6590676",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3960285,
+          37.7885423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65306797",
+      "properties": {
+        "@id": "node/65306797",
+        "highway": "traffic_signals",
+        "traffic_signals:sound": "yes",
+        "turn_restrictions": "no",
+        "@timestamp": "2011-05-02T22:58:31Z",
+        "@version": "9",
+        "@changeset": "8035462",
+        "@user": "KindredCoda",
+        "@uid": "14293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3982588,
+          37.786773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65300085",
+      "properties": {
+        "@id": "node/65300085",
+        "highway": "traffic_signals",
+        "@timestamp": "2013-12-15T13:48:06Z",
+        "@version": "9",
+        "@changeset": "19464361",
+        "@user": "dbaron",
+        "@uid": "481533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4004765,
+          37.785012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65306800",
+      "properties": {
+        "@id": "node/65306800",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-01-24T02:52:12Z",
+        "@version": "6",
+        "@changeset": "20170747",
+        "@user": "dbaron",
+        "@uid": "481533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3989843,
+          37.7862063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/65306802",
+      "properties": {
+        "@id": "node/65306802",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-01-24T02:52:12Z",
+        "@version": "6",
+        "@changeset": "20170747",
+        "@user": "dbaron",
+        "@uid": "481533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3993791,
+          37.7858875
+        ]
+      }
+    }
+  ]
+}

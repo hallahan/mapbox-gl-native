@@ -27,7 +27,23 @@ public class Util {
         return readAll(rd);
     }
 
-    public static LatLng[] parseGeoJSONCoordinates(String geojsonStr) throws JSONException {
+    public static LatLng[] parsePointsCoordinates(String geojsonStr) throws JSONException {
+        JSONObject jsonObject = new JSONObject(geojsonStr);
+        JSONArray features = jsonObject.getJSONArray("features");
+        int len = features.length();
+        LatLng[] latLngs = new LatLng[len];
+        for (int j = 0; j < len; j++) {
+            JSONObject feature = features.getJSONObject(j);
+            JSONObject geometry = feature.getJSONObject("geometry");
+            JSONArray coord = geometry.getJSONArray("coordinates");
+            double lng = coord.getDouble(0);
+            double lat = coord.getDouble(1);
+            latLngs[j] = new LatLng(lat, lng);
+        }
+        return latLngs;
+    }
+
+    public static LatLng[] parseLineCoordinates(String geojsonStr) throws JSONException {
         JSONObject jsonObject = new JSONObject(geojsonStr);
         JSONArray features = jsonObject.getJSONArray("features");
         JSONObject feature = features.getJSONObject(0);
@@ -49,6 +65,28 @@ public class Util {
         }
         return latLngs;
     }
+
+    public static LatLng[][] parsePolygonsCoordinates(String geojsonStr) throws JSONException {
+        JSONObject jsonObject = new JSONObject(geojsonStr);
+        JSONArray features = jsonObject.getJSONArray("features");
+        LatLng[][] featArry = new LatLng[features.length()][];
+        for (int i = 0; i < featArry.length; i++) {
+            JSONObject feature = features.getJSONObject(i);
+            JSONObject geometry = feature.getJSONObject("geometry");
+            JSONArray coordinates = geometry.getJSONArray("coordinates").getJSONArray(0);
+            int len = coordinates.length();
+            LatLng[] latLngs = new LatLng[len];
+            featArry[i] = latLngs;
+            for (int j = 0; j < latLngs.length; j++) {
+                JSONArray coord = coordinates.getJSONArray(j);
+                double lng = coord.getDouble(0);
+                double lat = coord.getDouble(1);
+                latLngs[i] = new LatLng(lat, lng);
+            }
+        }
+        return featArry;
+    }
+
 
     private static String readAll(Reader rd) throws IOException {
         StringBuilder sb = new StringBuilder();

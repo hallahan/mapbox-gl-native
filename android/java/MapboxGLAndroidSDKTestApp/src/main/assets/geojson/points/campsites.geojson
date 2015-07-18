@@ -1,0 +1,699 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-07-17T21:44:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/58573304",
+      "properties": {
+        "@id": "node/58573304",
+        "created_by": "JOSM",
+        "name": "Gillespie Youth Camp",
+        "tourism": "camp_site",
+        "@timestamp": "2007-09-23T09:38:34Z",
+        "@version": "1",
+        "@changeset": "501851",
+        "@user": "beej71",
+        "@uid": "11154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2304357,
+          37.8837322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/98454401",
+      "properties": {
+        "@id": "node/98454401",
+        "created_by": "JOSM",
+        "name": "New Woodland Group Camp",
+        "tourism": "camp_site",
+        "@timestamp": "2007-11-05T03:27:32Z",
+        "@version": "1",
+        "@changeset": "412615",
+        "@user": "beej71",
+        "@uid": "11154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2616077,
+          37.9100635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/98454403",
+      "properties": {
+        "@id": "node/98454403",
+        "created_by": "JOSM",
+        "name": "Wildcat View Group Camp",
+        "tourism": "camp_site",
+        "@timestamp": "2007-11-05T03:27:33Z",
+        "@version": "1",
+        "@changeset": "412615",
+        "@user": "beej71",
+        "@uid": "11154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2604747,
+          37.9102446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/167164343",
+      "properties": {
+        "@id": "node/167164343",
+        "name": "East Bay Sites",
+        "tourism": "camp_site",
+        "@timestamp": "2013-12-09T01:59:19Z",
+        "@version": "2",
+        "@changeset": "19351224",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4253106,
+          37.8657834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/167165270",
+      "properties": {
+        "@id": "node/167165270",
+        "name": "Sunrise Sites",
+        "tourism": "camp_site",
+        "@timestamp": "2013-12-09T01:59:20Z",
+        "@version": "2",
+        "@changeset": "19351224",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4252862,
+          37.8616171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/307349137",
+      "properties": {
+        "@id": "node/307349137",
+        "name": "Girls Camp",
+        "note": "reservable group camp",
+        "tourism": "camp_site",
+        "@timestamp": "2011-10-12T05:41:19Z",
+        "@version": "3",
+        "@changeset": "9535766",
+        "@user": "DanHomerick",
+        "@uid": "160138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1806547,
+          37.8281151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311881680",
+      "properties": {
+        "@id": "node/311881680",
+        "name": "Pal Camp",
+        "tourism": "camp_site",
+        "@timestamp": "2008-11-14T00:34:20Z",
+        "@version": "1",
+        "@changeset": "746280",
+        "@user": "beej71",
+        "@uid": "11154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1768105,
+          37.8156523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/360792293",
+      "properties": {
+        "@id": "node/360792293",
+        "created_by": "Potlatch 0.10f",
+        "tourism": "camp_site",
+        "@timestamp": "2009-03-15T17:44:43Z",
+        "@version": "1",
+        "@changeset": "813594",
+        "@user": "Davin",
+        "@uid": "103340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9372289,
+          37.8504464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/414259227",
+      "properties": {
+        "@id": "node/414259227",
+        "tourism": "camp_site",
+        "@timestamp": "2009-06-01T22:41:13Z",
+        "@version": "1",
+        "@changeset": "1399272",
+        "@user": "Xmanofnapa",
+        "@uid": "130384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2492199,
+          38.2777197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/414259228",
+      "properties": {
+        "@id": "node/414259228",
+        "tourism": "camp_site",
+        "@timestamp": "2009-06-01T22:41:13Z",
+        "@version": "1",
+        "@changeset": "1399272",
+        "@user": "Xmanofnapa",
+        "@uid": "130384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2520179,
+          38.2777871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/456020264",
+      "properties": {
+        "@id": "node/456020264",
+        "addr:country": "US",
+        "addr:housenumber": "2130",
+        "addr:postcode": "94904",
+        "addr:state": "CA",
+        "addr:street": "Redwood Hwy",
+        "caravans": "yes",
+        "name": "Marin Park RV",
+        "tourism": "camp_site",
+        "url": "http://www.marinrvpark.com",
+        "website:searchstring": "Marin Park",
+        "@timestamp": "2014-03-05T22:37:51Z",
+        "@version": "4",
+        "@changeset": "20940118",
+        "@user": "adjuva",
+        "@uid": "92274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5151751,
+          37.9406146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/843202927",
+      "properties": {
+        "@id": "node/843202927",
+        "name": "Hawk Camp",
+        "tourism": "camp_site",
+        "@timestamp": "2011-05-09T02:06:26Z",
+        "@version": "2",
+        "@changeset": "8089146",
+        "@user": "jfire",
+        "@uid": "67236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5204292,
+          37.8540741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/963007252",
+      "properties": {
+        "@id": "node/963007252",
+        "name": "Camp Herms BSA",
+        "scout": "yes",
+        "tourism": "camp_site",
+        "website": "http://www.bsa-mdsc.org/",
+        "@timestamp": "2011-01-02T17:57:50Z",
+        "@version": "4",
+        "@changeset": "6841244",
+        "@user": "Bryce C Nesbitt",
+        "@uid": "355242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2902938,
+          37.9236304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1076010147",
+      "properties": {
+        "@id": "node/1076010147",
+        "tourism": "camp_site",
+        "@timestamp": "2010-12-31T21:09:21Z",
+        "@version": "1",
+        "@changeset": "6823505",
+        "@user": "ShibaBoy",
+        "@uid": "102002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8109613,
+          37.8303765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1079189594",
+      "properties": {
+        "@id": "node/1079189594",
+        "name": "Round Valley Group Camp",
+        "tourism": "camp_site",
+        "@timestamp": "2011-01-02T18:50:05Z",
+        "@version": "1",
+        "@changeset": "6841946",
+        "@user": "ShibaBoy",
+        "@uid": "102002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7886696,
+          37.8511898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1227752270",
+      "properties": {
+        "@id": "node/1227752270",
+        "designation": "Group Camp available by reservation",
+        "name": "Corral Camp",
+        "tourism": "camp_site",
+        "@timestamp": "2013-07-21T20:33:20Z",
+        "@version": "2",
+        "@changeset": "17040985",
+        "@user": "Ben Discoe",
+        "@uid": "361207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0455223,
+          37.8127015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1277853145",
+      "properties": {
+        "@id": "node/1277853145",
+        "name": "Kirby Cove",
+        "tourism": "camp_site",
+        "@timestamp": "2011-05-09T02:06:26Z",
+        "@version": "1",
+        "@changeset": "8089146",
+        "@user": "jfire",
+        "@uid": "67236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4902746,
+          37.8273434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1296951503",
+      "properties": {
+        "@id": "node/1296951503",
+        "name": "Wildcat Group Camp",
+        "tourism": "camp_site",
+        "@timestamp": "2012-06-03T06:09:54Z",
+        "@version": "3",
+        "@changeset": "11782799",
+        "@user": "wallclimber21",
+        "@uid": "81024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9331807,
+          37.8627122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1296951506",
+      "properties": {
+        "@id": "node/1296951506",
+        "name": "BBQ Terrace Horse Camp",
+        "tourism": "camp_site",
+        "@timestamp": "2011-05-23T05:19:50Z",
+        "@version": "2",
+        "@changeset": "8223070",
+        "@user": "Bryce C Nesbitt",
+        "@uid": "355242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.935845,
+          37.8626048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1466668476",
+      "properties": {
+        "@id": "node/1466668476",
+        "name": "Bort Meadow / Big Trees Group Camp",
+        "tourism": "camp_site",
+        "@timestamp": "2011-10-14T05:11:09Z",
+        "@version": "1",
+        "@changeset": "9552530",
+        "@user": "DanHomerick",
+        "@uid": "160138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1298001,
+          37.7795913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1564457605",
+      "properties": {
+        "@id": "node/1564457605",
+        "name": "Rob Hill Campground",
+        "tourism": "camp_site",
+        "@timestamp": "2012-04-18T06:50:49Z",
+        "@version": "2",
+        "@changeset": "11340673",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4759035,
+          37.7964747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1774357843",
+      "properties": {
+        "@id": "node/1774357843",
+        "name": "Boundary Group Camp",
+        "tourism": "camp_site",
+        "@timestamp": "2012-06-03T06:09:54Z",
+        "@version": "2",
+        "@changeset": "11782799",
+        "@user": "wallclimber21",
+        "@uid": "81024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9359541,
+          37.8675874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1774357960",
+      "properties": {
+        "@id": "node/1774357960",
+        "name": "Stagecoach Group Camp",
+        "tourism": "camp_site",
+        "@timestamp": "2012-06-03T06:09:54Z",
+        "@version": "2",
+        "@changeset": "11782799",
+        "@user": "wallclimber21",
+        "@uid": "81024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9347364,
+          37.8670538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2344140695",
+      "properties": {
+        "@id": "node/2344140695",
+        "name": "Bicentennial",
+        "tourism": "camp_site",
+        "@timestamp": "2014-04-02T15:43:57Z",
+        "@version": "2",
+        "@changeset": "21460749",
+        "@user": "flockfinder",
+        "@uid": "1616228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5267605,
+          37.8245704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2408123949",
+      "properties": {
+        "@id": "node/2408123949",
+        "tourism": "camp_site",
+        "@timestamp": "2014-11-03T02:27:42Z",
+        "@version": "2",
+        "@changeset": "26517110",
+        "@user": "Bryce C Nesbitt",
+        "@uid": "355242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4950047,
+          38.0046985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2572347209",
+      "properties": {
+        "@id": "node/2572347209",
+        "name": "Kayak Group Camp",
+        "tourism": "camp_site",
+        "@timestamp": "2013-12-09T01:59:07Z",
+        "@version": "1",
+        "@changeset": "19351224",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4405202,
+          37.8624704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2572347210",
+      "properties": {
+        "@id": "node/2572347210",
+        "name": "Ridge Sites",
+        "tourism": "camp_site",
+        "@timestamp": "2015-04-26T17:09:09Z",
+        "@version": "2",
+        "@changeset": "30510163",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4402798,
+          37.8577614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2572347211",
+      "properties": {
+        "@id": "node/2572347211",
+        "name": "Site 10",
+        "ref": "10",
+        "tourism": "camp_site",
+        "wheelchair": "yes",
+        "@timestamp": "2013-12-12T21:47:50Z",
+        "@version": "2",
+        "@changeset": "19421314",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4411813,
+          37.8612397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2639227578",
+      "properties": {
+        "@id": "node/2639227578",
+        "tourism": "camp_site",
+        "@timestamp": "2014-01-27T03:56:37Z",
+        "@version": "1",
+        "@changeset": "20222395",
+        "@user": "pankdm",
+        "@uid": "329833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1128778,
+          37.7385743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2768962252",
+      "properties": {
+        "@id": "node/2768962252",
+        "drinking_water": "yes",
+        "internet_access": "no",
+        "name": "Maud Whalen",
+        "toilets": "yes",
+        "tourism": "camp_site",
+        "wheelchair": "yes",
+        "@timestamp": "2014-04-05T05:43:22Z",
+        "@version": "1",
+        "@changeset": "21507676",
+        "@user": "Bryce C Nesbitt",
+        "@uid": "355242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1565366,
+          37.9404981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2768962253",
+      "properties": {
+        "@id": "node/2768962253",
+        "drinking_water": "yes",
+        "name": "Wee-Ta-Chi",
+        "toilets": "no",
+        "tourism": "camp_site",
+        "@timestamp": "2014-04-05T05:43:22Z",
+        "@version": "1",
+        "@changeset": "21507676",
+        "@user": "Bryce C Nesbitt",
+        "@uid": "355242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1571,
+          37.9451324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3496331015",
+      "properties": {
+        "@id": "node/3496331015",
+        "name": "Group Camp",
+        "tourism": "camp_site",
+        "wheelchair": "yes",
+        "@timestamp": "2015-05-04T05:05:51Z",
+        "@version": "1",
+        "@changeset": "30767114",
+        "@user": "Bryce C Nesbitt",
+        "@uid": "355242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5088379,
+          38.4380763
+        ]
+      }
+    }
+  ]
+}

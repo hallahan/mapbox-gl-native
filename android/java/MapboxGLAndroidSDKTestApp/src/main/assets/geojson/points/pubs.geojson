@@ -1,0 +1,4708 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-07-17T21:35:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/61670779",
+      "properties": {
+        "@id": "node/61670779",
+        "addr:housenumber": "530",
+        "addr:street": "Haight Street",
+        "amenity": "pub",
+        "name": "Mad Dog in the Fog",
+        "@timestamp": "2014-01-14T21:22:09Z",
+        "@version": "8",
+        "@changeset": "20001081",
+        "@user": "Rub21",
+        "@uid": "510836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4310149,
+          37.7721337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61671096",
+      "properties": {
+        "@id": "node/61671096",
+        "addr:housenumber": "547",
+        "addr:street": "Haight Street",
+        "amenity": "pub",
+        "email": "info@toronado.com",
+        "fax": "415 621 0322",
+        "myspace": "toronadosf",
+        "name": "Toronado",
+        "opening_hours": "11:00-02:00",
+        "phone": "415 863 2276",
+        "website": "http://www.toronado.com/",
+        "@timestamp": "2011-04-09T01:58:01Z",
+        "@version": "5",
+        "@changeset": "7809461",
+        "@user": "sethoscope",
+        "@uid": "224058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4311197,
+          37.7719291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61671382",
+      "properties": {
+        "@id": "node/61671382",
+        "addr:street": "Haight Street",
+        "amenity": "pub",
+        "name": "Molotov's",
+        "@timestamp": "2011-04-09T01:58:00Z",
+        "@version": "6",
+        "@changeset": "7809461",
+        "@user": "sethoscope",
+        "@uid": "224058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4317339,
+          37.772066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61672275",
+      "properties": {
+        "@id": "node/61672275",
+        "addr:street": "Haight Street",
+        "amenity": "pub",
+        "name": "Noc Noc",
+        "short_name": "NocNoc",
+        "@timestamp": "2014-07-19T03:41:48Z",
+        "@version": "7",
+        "@changeset": "24232726",
+        "@user": "mattflaschen",
+        "@uid": "25985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4315768,
+          37.771878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61673273",
+      "properties": {
+        "@id": "node/61673273",
+        "addr:street": "Haight Street",
+        "amenity": "pub",
+        "name": "Danny Coyles",
+        "@timestamp": "2011-01-17T00:00:46Z",
+        "@version": "7",
+        "@changeset": "6995367",
+        "@user": "sethoscope",
+        "@uid": "224058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4332247,
+          37.7718732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61674029",
+      "properties": {
+        "@id": "node/61674029",
+        "addr:street": "Divisadero Street",
+        "amenity": "pub",
+        "name": "The Page",
+        "@timestamp": "2012-02-11T22:08:28Z",
+        "@version": "7",
+        "@changeset": "10658069",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4370345,
+          37.7721204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61675193",
+      "properties": {
+        "@id": "node/61675193",
+        "amenity": "pub",
+        "name": "Martuni's",
+        "@timestamp": "2012-03-12T05:09:53Z",
+        "@version": "3",
+        "@changeset": "10951062",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4227728,
+          37.7721282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61676333",
+      "properties": {
+        "@id": "node/61676333",
+        "amenity": "pub",
+        "name": "Martin Mack's",
+        "@timestamp": "2015-01-08T21:29:29Z",
+        "@version": "6",
+        "@changeset": "28007428",
+        "@user": "Jack J Jia",
+        "@uid": "2555308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4481524,
+          37.7699962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61677300",
+      "properties": {
+        "@id": "node/61677300",
+        "amenity": "pub",
+        "name": "Magnolia Pub & Brewery",
+        "wheelchair": "yes",
+        "@timestamp": "2013-04-01T07:18:23Z",
+        "@version": "4",
+        "@changeset": "15562446",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4452044,
+          37.7703537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61677421",
+      "properties": {
+        "@id": "node/61677421",
+        "amenity": "pub",
+        "name": "The Gold Cane",
+        "@timestamp": "2010-03-17T21:56:59Z",
+        "@version": "4",
+        "@changeset": "4157389",
+        "@user": "WanMil",
+        "@uid": "109925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4480858,
+          37.7696571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61677472",
+      "properties": {
+        "@id": "node/61677472",
+        "amenity": "pub",
+        "name": "Club Deluxe",
+        "@timestamp": "2010-03-17T21:56:58Z",
+        "@version": "5",
+        "@changeset": "4157389",
+        "@user": "WanMil",
+        "@uid": "109925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4474078,
+          37.7697453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61678646",
+      "properties": {
+        "@id": "node/61678646",
+        "amenity": "pub",
+        "name": "Trax",
+        "@timestamp": "2010-03-17T21:56:59Z",
+        "@version": "2",
+        "@changeset": "4157389",
+        "@user": "WanMil",
+        "@uid": "109925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4461289,
+          37.7699421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61678786",
+      "properties": {
+        "@id": "node/61678786",
+        "amenity": "pub",
+        "name": "Aub Zam Zam",
+        "@timestamp": "2010-03-17T21:56:58Z",
+        "@version": "3",
+        "@changeset": "4157389",
+        "@user": "WanMil",
+        "@uid": "109925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4492617,
+          37.7695485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61679473",
+      "properties": {
+        "@id": "node/61679473",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.4a",
+        "name": "Kezar",
+        "@timestamp": "2007-10-12T20:32:44Z",
+        "@version": "3",
+        "@changeset": "126098",
+        "@user": "",
+        "@uid": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4530976,
+          37.7675597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61692662",
+      "properties": {
+        "@id": "node/61692662",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "201",
+        "addr:street": "Columbus",
+        "amenity": "pub",
+        "name": "Mr. Bing's",
+        "@timestamp": "2013-08-09T00:21:54Z",
+        "@version": "4",
+        "@changeset": "17273750",
+        "@user": "mpmckenna8",
+        "@uid": "1213904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4058551,
+          37.7971431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61692712",
+      "properties": {
+        "@id": "node/61692712",
+        "addr:housenumber": "500",
+        "addr:street": "Sacramento Street",
+        "amenity": "pub",
+        "name": "Irish Times",
+        "old_name": "Norton's Vault",
+        "phone": "+1 800 800 8008",
+        "@timestamp": "2012-05-30T05:15:48Z",
+        "@version": "5",
+        "@changeset": "11744899",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4015184,
+          37.7940429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/61692857",
+      "properties": {
+        "@id": "node/61692857",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10b",
+        "name": "Old Ship Saloon",
+        "@timestamp": "2008-09-18T05:17:11Z",
+        "@version": "2",
+        "@changeset": "660387",
+        "@user": "will l",
+        "@uid": "35195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4007139,
+          37.7977871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265506505",
+      "properties": {
+        "@id": "node/265506505",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.9a",
+        "name": "Pops",
+        "@timestamp": "2008-05-18T05:14:25Z",
+        "@version": "1",
+        "@changeset": "476066",
+        "@user": "will l",
+        "@uid": "35195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4083276,
+          37.7529558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/274369355",
+      "properties": {
+        "@id": "node/274369355",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.9c",
+        "name": "Uptown",
+        "@timestamp": "2008-06-28T22:47:10Z",
+        "@version": "1",
+        "@changeset": "328066",
+        "@user": "Michal Migurski",
+        "@uid": "25981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4185599,
+          37.7634003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/274370938",
+      "properties": {
+        "@id": "node/274370938",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.9c",
+        "name": "Ruby Room",
+        "@timestamp": "2008-06-28T22:51:09Z",
+        "@version": "1",
+        "@changeset": "328066",
+        "@user": "Michal Migurski",
+        "@uid": "25981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2635171,
+          37.8014579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/275723361",
+      "properties": {
+        "@id": "node/275723361",
+        "amenity": "pub",
+        "atm": "yes",
+        "created_by": "Potlatch 0.9c",
+        "name": "Kilowatt",
+        "@timestamp": "2009-10-19T05:12:17Z",
+        "@version": "2",
+        "@changeset": "2890682",
+        "@user": "SteveC",
+        "@uid": "682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4232384,
+          37.764931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/277425091",
+      "properties": {
+        "@id": "node/277425091",
+        "amenity": "pub",
+        "name": "Thieves Tavern",
+        "name_1": "Steve's Tavern",
+        "@timestamp": "2010-11-30T18:53:00Z",
+        "@version": "4",
+        "@changeset": "6496708",
+        "@user": "SteveC",
+        "@uid": "682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4240962,
+          37.7681498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281652616",
+      "properties": {
+        "@id": "node/281652616",
+        "amenity": "pub",
+        "created_by": "JOSM",
+        "name": "Truck",
+        "@timestamp": "2008-07-28T04:22:04Z",
+        "@version": "1",
+        "@changeset": "611272",
+        "@user": "will l",
+        "@uid": "35195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4155598,
+          37.766838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281652933",
+      "properties": {
+        "@id": "node/281652933",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3349",
+        "addr:postcode": "94110",
+        "addr:state": "CA",
+        "addr:street": "20th Street",
+        "amenity": "pub",
+        "name": "Shotwell's",
+        "phone": "(415) 648-4104",
+        "@timestamp": "2014-12-18T22:44:25Z",
+        "@version": "5",
+        "@changeset": "27560471",
+        "@user": "ducnguy",
+        "@uid": "2528015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4156655,
+          37.7587423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/281652962",
+      "properties": {
+        "@id": "node/281652962",
+        "addr:housenumber": "2424",
+        "addr:postcode": "94110",
+        "addr:street": "Mariposa Street",
+        "amenity": "pub",
+        "name": "Verdi Club",
+        "phone": "+1 (415) 861-9199",
+        "website": "http://www.verdiclub.net",
+        "@timestamp": "2014-03-17T22:26:51Z",
+        "@version": "3",
+        "@changeset": "21164776",
+        "@user": "KindredCoda",
+        "@uid": "14293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4079125,
+          37.7632862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282601069",
+      "properties": {
+        "@id": "node/282601069",
+        "addr:city": "Berkeley",
+        "addr:country": "US",
+        "addr:housenumber": "1920",
+        "addr:postcode": "94704",
+        "addr:state": "CA",
+        "addr:street": "Shattuck Avenue",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Triple Rock Brewery",
+        "phone": "+1 510 8432739",
+        "website": "http://triplerock.com/",
+        "wheelchair": "yes",
+        "@timestamp": "2013-04-16T07:53:08Z",
+        "@version": "10",
+        "@changeset": "15746105",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.268746,
+          37.873419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/286080783",
+      "properties": {
+        "@id": "node/286080783",
+        "amenity": "pub",
+        "name": "Henry's",
+        "@timestamp": "2014-04-05T08:44:16Z",
+        "@version": "3",
+        "@changeset": "21509627",
+        "@user": "oba510",
+        "@uid": "933797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.256551,
+          37.8679894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/286632430",
+      "properties": {
+        "@id": "node/286632430",
+        "amenity": "pub",
+        "name": "Pappy's",
+        "@timestamp": "2015-02-27T20:01:13Z",
+        "@version": "7",
+        "@changeset": "29143228",
+        "@user": "joab87",
+        "@uid": "2712780"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2587263,
+          37.8674277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/295082904",
+      "properties": {
+        "@id": "node/295082904",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10b",
+        "name": "Elixir",
+        "@timestamp": "2008-09-08T16:36:36Z",
+        "@version": "2",
+        "@changeset": "572902",
+        "@user": "SteveC",
+        "@uid": "682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4243046,
+          37.7649242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/302448211",
+      "properties": {
+        "@id": "node/302448211",
+        "addr:housenumber": "3121",
+        "addr:street": "16th Street",
+        "amenity": "pub",
+        "name": "Dalva",
+        "@timestamp": "2012-02-11T21:39:28Z",
+        "@version": "4",
+        "@changeset": "10657823",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4224623,
+          37.7647708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/302448240",
+      "properties": {
+        "@id": "node/302448240",
+        "amenity": "pub",
+        "atm": "yes",
+        "name": "500 Club",
+        "@timestamp": "2012-07-18T17:50:41Z",
+        "@version": "5",
+        "@changeset": "12291161",
+        "@user": "OSMF Redaction Account",
+        "@uid": "722137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4240976,
+          37.7630605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/305336652",
+      "properties": {
+        "@id": "node/305336652",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10f",
+        "name": "Luka's Taproom & Bar",
+        "wheelchair": "yes",
+        "@timestamp": "2012-06-25T16:39:49Z",
+        "@version": "6",
+        "@changeset": "12007103",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2670744,
+          37.8113452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/310683040",
+      "properties": {
+        "@id": "node/310683040",
+        "addr:city": "Oakland",
+        "addr:housenumber": "460",
+        "addr:postcode": "94607",
+        "addr:street": "8th Street",
+        "amenity": "pub",
+        "name": "The Trappist",
+        "opening_hours": "Su-Th 12:00-00:30;Fr-Sa 12:00-1:30",
+        "@timestamp": "2014-08-01T16:53:10Z",
+        "@version": "7",
+        "@changeset": "24484952",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2741201,
+          37.8004763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/310972956",
+      "properties": {
+        "@id": "node/310972956",
+        "amenity": "pub",
+        "name": "Scobies",
+        "@timestamp": "2012-03-04T19:24:16Z",
+        "@version": "2",
+        "@changeset": "10872812",
+        "@user": "ShopParkStreet",
+        "@uid": "616966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2413935,
+          37.7638392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/310973009",
+      "properties": {
+        "@id": "node/310973009",
+        "addr:city": "Alameda",
+        "addr:housenumber": "1313",
+        "addr:postcode": "94501",
+        "addr:street": "Park Street",
+        "amenity": "pub",
+        "name": "Hobnob",
+        "phone": "510-769-1011",
+        "website": "http://www.thehobnobalameda.com/",
+        "@timestamp": "2013-07-20T20:14:49Z",
+        "@version": "7",
+        "@changeset": "17027906",
+        "@user": "curiousscholar",
+        "@uid": "1535927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2440396,
+          37.762978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/317124810",
+      "properties": {
+        "@id": "node/317124810",
+        "amenity": "pub",
+        "name": "Zeke's Sports Bar and Grill",
+        "@timestamp": "2013-07-11T15:25:11Z",
+        "@version": "4",
+        "@changeset": "16914715",
+        "@user": "Dan Parham",
+        "@uid": "1635377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3943218,
+          37.779906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/343611021",
+      "properties": {
+        "@id": "node/343611021",
+        "alt_name": "The Pub",
+        "amenity": "pub",
+        "name": "Schmidt's Tobacco & Trading Co.",
+        "@timestamp": "2014-09-16T06:53:30Z",
+        "@version": "3",
+        "@changeset": "25472323",
+        "@user": "oba510",
+        "@uid": "933797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.288278,
+          37.8906699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344975908",
+      "properties": {
+        "@id": "node/344975908",
+        "addr:housenumber": "563",
+        "addr:postcode": "94107",
+        "addr:street": "2nd Street",
+        "amenity": "pub",
+        "internet_access": "no",
+        "microbrewery": "yes",
+        "name": "21st Amendment",
+        "phone": "415-369-0900",
+        "website": "http://21st-amendment.com/",
+        "@timestamp": "2013-02-01T11:59:47Z",
+        "@version": "5",
+        "@changeset": "14870199",
+        "@user": "chris-p",
+        "@uid": "1217891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3925769,
+          37.782448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/346585378",
+      "properties": {
+        "@id": "node/346585378",
+        "addr:housenumber": "431",
+        "addr:street": "Natoma Street",
+        "amenity": "pub",
+        "name": "Tempest",
+        "@timestamp": "2012-02-11T21:18:07Z",
+        "@version": "2",
+        "@changeset": "10657584",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4063056,
+          37.7811746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/348193707",
+      "properties": {
+        "@id": "node/348193707",
+        "addr:city": "Berkeley",
+        "addr:country": "US",
+        "addr:housenumber": "1822",
+        "addr:state": "CA",
+        "addr:street": "San Pablo Avenue",
+        "amenity": "pub",
+        "microbrewery": "no",
+        "name": "Albatross",
+        "@timestamp": "2013-03-22T19:32:24Z",
+        "@version": "3",
+        "@changeset": "15458211",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.292937,
+          37.870907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366710420",
+      "properties": {
+        "@id": "node/366710420",
+        "addr:housenumber": "12",
+        "addr:street": "William Saroyan Place",
+        "amenity": "pub",
+        "name": "Specs Bar",
+        "@timestamp": "2012-02-04T08:52:22Z",
+        "@version": "2",
+        "@changeset": "10582043",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4059901,
+          37.7976427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366711368",
+      "properties": {
+        "@id": "node/366711368",
+        "addr:housenumber": "242",
+        "addr:street": "Columbus Avenue",
+        "amenity": "pub",
+        "name": "Cafe Tosca",
+        "@timestamp": "2009-04-07T20:06:00Z",
+        "@version": "2",
+        "@changeset": "298062",
+        "@user": "ulfl",
+        "@uid": "6975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4059615,
+          37.7975454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366713190",
+      "properties": {
+        "@id": "node/366713190",
+        "addr:housenumber": "15",
+        "addr:street": "Romolo Place",
+        "amenity": "pub",
+        "name": "15 Romolo",
+        "@timestamp": "2011-07-09T17:44:52Z",
+        "@version": "2",
+        "@changeset": "8676623",
+        "@user": "Sarah M",
+        "@uid": "74292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4063477,
+          37.7981219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366720527",
+      "properties": {
+        "@id": "node/366720527",
+        "addr:housenumber": "673",
+        "addr:street": "Union Street",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10f",
+        "name": "Rogue Ales Public House",
+        "@timestamp": "2009-03-28T22:44:00Z",
+        "@version": "1",
+        "@changeset": "867225",
+        "@user": "RaffyO",
+        "@uid": "81497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4107165,
+          37.8001497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366722014",
+      "properties": {
+        "@id": "node/366722014",
+        "addr:housenumber": "1371",
+        "addr:street": "Grant Avenue",
+        "amenity": "pub",
+        "name": "Grant and Green",
+        "@timestamp": "2015-01-10T01:17:44Z",
+        "@version": "3",
+        "@changeset": "28032155",
+        "@user": "Jack J Jia",
+        "@uid": "2555308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4074738,
+          37.7995962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366723406",
+      "properties": {
+        "@id": "node/366723406",
+        "addr:housenumber": "1609",
+        "addr:street": "Powell Street",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10f",
+        "name": "The Boardroom",
+        "@timestamp": "2009-03-28T23:01:28Z",
+        "@version": "1",
+        "@changeset": "867225",
+        "@user": "RaffyO",
+        "@uid": "81497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4108109,
+          37.799519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366723771",
+      "properties": {
+        "@id": "node/366723771",
+        "addr:housenumber": "622",
+        "addr:street": "Green Street",
+        "amenity": "pub",
+        "name": "O'Reilly's Irish Pub & Restaurant",
+        "@timestamp": "2012-12-18T09:49:32Z",
+        "@version": "3",
+        "@changeset": "14316189",
+        "@user": "tkmedia",
+        "@uid": "183737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4097652,
+          37.7995333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366733492",
+      "properties": {
+        "@id": "node/366733492",
+        "addr:street": "Columbus Avenue",
+        "amenity": "pub",
+        "name": "Giordano Bros.",
+        "phone": "415-397-BROS",
+        "website": "www.giordanobros.com",
+        "@timestamp": "2013-02-22T09:19:46Z",
+        "@version": "5",
+        "@changeset": "15120659",
+        "@user": "wegavision",
+        "@uid": "564585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4072679,
+          37.7980894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/368295240",
+      "properties": {
+        "@id": "node/368295240",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "661",
+        "addr:street": "Howard Street",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10f",
+        "cuisine": "american",
+        "name": "The Thirsty Bear Brewing Company",
+        "@timestamp": "2013-06-07T21:01:33Z",
+        "@version": "2",
+        "@changeset": "16462473",
+        "@user": "coleman",
+        "@uid": "93788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.399512,
+          37.785543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/370196794",
+      "properties": {
+        "@id": "node/370196794",
+        "amenity": "pub",
+        "name": "Custom Lounge",
+        "@timestamp": "2014-06-10T02:55:34Z",
+        "@version": "4",
+        "@changeset": "22841552",
+        "@user": "ReinerMeyer",
+        "@uid": "111529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409904,
+          37.7786408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/371007095",
+      "properties": {
+        "@id": "node/371007095",
+        "addr:housenumber": "850",
+        "addr:street": "Montgomery Street",
+        "amenity": "pub",
+        "created_by": "Potlatch 0.10f",
+        "name": "Cigar Bar",
+        "@timestamp": "2009-04-09T23:31:40Z",
+        "@version": "3",
+        "@changeset": "389702",
+        "@user": "RaffyO",
+        "@uid": "81497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4034628,
+          37.7970564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/371025500",
+      "properties": {
+        "@id": "node/371025500",
+        "addr:housenumber": "601",
+        "addr:street": "Bush Street",
+        "amenity": "pub",
+        "name": "Tunnel Top",
+        "@timestamp": "2015-03-11T04:40:31Z",
+        "@version": "3",
+        "@changeset": "29397298",
+        "@user": "ssjazz",
+        "@uid": "2747838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4072909,
+          37.7902413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/371251931",
+      "properties": {
+        "@id": "node/371251931",
+        "addr:housenumber": "1040",
+        "addr:street": "Columbus Avenue",
+        "amenity": "pub",
+        "cuisine": "indian",
+        "name": "Kennedy's Irish Pub & Curry House",
+        "website": "kennedyscurry.com",
+        "@timestamp": "2012-03-18T21:14:54Z",
+        "@version": "4",
+        "@changeset": "11024109",
+        "@user": "informationchef",
+        "@uid": "632322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4153272,
+          37.8041003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380312742",
+      "properties": {
+        "@id": "node/380312742",
+        "amenity": "pub",
+        "name": "RJ's Sports Bar",
+        "@timestamp": "2012-01-31T02:01:45Z",
+        "@version": "5",
+        "@changeset": "10545754",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4149052,
+          37.7864093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380315392",
+      "properties": {
+        "@id": "node/380315392",
+        "amenity": "pub",
+        "name": "800 Larkin",
+        "@timestamp": "2009-05-28T11:05:28Z",
+        "@version": "2",
+        "@changeset": "1340950",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4177687,
+          37.7853143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/381972334",
+      "properties": {
+        "@id": "node/381972334",
+        "amenity": "pub",
+        "name": "Aces",
+        "@timestamp": "2009-04-23T12:05:23Z",
+        "@version": "1",
+        "@changeset": "910329",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4166718,
+          37.7883091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/383502127",
+      "properties": {
+        "@id": "node/383502127",
+        "amenity": "pub",
+        "name": "Cafe Mason",
+        "opening_hours": "24/7",
+        "@timestamp": "2011-01-13T10:47:07Z",
+        "@version": "4",
+        "@changeset": "6955792",
+        "@user": "kvdeede",
+        "@uid": "394909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4095932,
+          37.7866072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/388205890",
+      "properties": {
+        "@id": "node/388205890",
+        "amenity": "pub",
+        "name": "Buena Vista",
+        "@timestamp": "2009-05-01T14:42:13Z",
+        "@version": "1",
+        "@changeset": "1036441",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4206485,
+          37.8065321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/389406523",
+      "properties": {
+        "@id": "node/389406523",
+        "addr:housenumber": "500",
+        "addr:street": "4th Street",
+        "amenity": "pub",
+        "name": "Hotel Utah",
+        "@timestamp": "2013-04-01T05:19:47Z",
+        "@version": "4",
+        "@changeset": "15562510",
+        "@user": "Martin Atkins",
+        "@uid": "6585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3980777,
+          37.7793474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412087372",
+      "properties": {
+        "@id": "node/412087372",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2360",
+        "addr:street": "Polk Street",
+        "amenity": "pub",
+        "name": "Tonic",
+        "opening_hours": "17:00-2:00",
+        "source": "survey",
+        "website": "http://tonicbar-sf.com/",
+        "@timestamp": "2013-02-22T15:54:00Z",
+        "@version": "2",
+        "@changeset": "15125231",
+        "@user": "wegavision",
+        "@uid": "564585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4221753,
+          37.7986951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412089163",
+      "properties": {
+        "@id": "node/412089163",
+        "addr:city": "San Francisco",
+        "addr:street": "Polk Street",
+        "amenity": "pub",
+        "name": "The Royal Oak",
+        "@timestamp": "2013-02-22T19:07:26Z",
+        "@version": "3",
+        "@changeset": "15127389",
+        "@user": "wegavision",
+        "@uid": "564585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4221958,
+          37.7970245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412103360",
+      "properties": {
+        "@id": "node/412103360",
+        "addr:city": "San Francisco",
+        "amenity": "pub",
+        "name": "Shanghai Kelly's",
+        "source": "survey",
+        "@timestamp": "2009-05-28T10:13:40Z",
+        "@version": "1",
+        "@changeset": "1340822",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4216053,
+          37.7958344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/412109202",
+      "properties": {
+        "@id": "node/412109202",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1695",
+        "addr:postcode": "94109",
+        "addr:street": "Polk Street",
+        "amenity": "pub",
+        "name": "Harper & Rye",
+        "source": "survey",
+        "@timestamp": "2014-08-06T20:08:32Z",
+        "@version": "3",
+        "@changeset": "24583039",
+        "@user": "mpmckenna8",
+        "@uid": "1213904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421214,
+          37.7922403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430555178",
+      "properties": {
+        "@id": "node/430555178",
+        "amenity": "pub",
+        "name": "Q's Lounge",
+        "@timestamp": "2009-06-29T03:24:08Z",
+        "@version": "1",
+        "@changeset": "1672519",
+        "@user": "RaffyO",
+        "@uid": "81497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2760834,
+          37.7957587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/432821523",
+      "properties": {
+        "@id": "node/432821523",
+        "amenity": "pub",
+        "name": "Temple Bar",
+        "source": "survey",
+        "@timestamp": "2009-07-03T10:24:35Z",
+        "@version": "2",
+        "@changeset": "1717765",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4188386,
+          37.7823012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/432827132",
+      "properties": {
+        "@id": "node/432827132",
+        "addr:housenumber": "496",
+        "amenity": "pub",
+        "name": "Brown Jug Saloon",
+        "@timestamp": "2009-09-01T23:34:51Z",
+        "@version": "2",
+        "@changeset": "2343723",
+        "@user": "Claudius Henrichs",
+        "@uid": "18069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4157744,
+          37.7836579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/444660863",
+      "properties": {
+        "@id": "node/444660863",
+        "amenity": "pub",
+        "name": "The Graduate",
+        "@timestamp": "2009-07-21T00:37:19Z",
+        "@version": "1",
+        "@changeset": "1890386",
+        "@user": "mvexel",
+        "@uid": "8909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2518595,
+          37.8496711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/528057545",
+      "properties": {
+        "@id": "node/528057545",
+        "amenity": "pub",
+        "name": "Pauline's Wine Bar",
+        "@timestamp": "2009-12-13T23:47:56Z",
+        "@version": "2",
+        "@changeset": "3368538",
+        "@user": "SteveC",
+        "@uid": "682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4225145,
+          37.7686733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/528511748",
+      "properties": {
+        "@id": "node/528511748",
+        "addr:housenumber": "3141",
+        "addr:street": "16th Street",
+        "amenity": "pub",
+        "name": "Delirium",
+        "@timestamp": "2012-02-11T21:39:29Z",
+        "@version": "2",
+        "@changeset": "10657823",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4227284,
+          37.764764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529117814",
+      "properties": {
+        "@id": "node/529117814",
+        "addr:city": "San Francisco",
+        "addr:street": "16th Street",
+        "amenity": "pub",
+        "name": "Gestalt",
+        "@timestamp": "2014-01-14T20:32:36Z",
+        "@version": "2",
+        "@changeset": "19999811",
+        "@user": "mpmckenna8",
+        "@uid": "1213904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4233225,
+          37.7647122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529777817",
+      "properties": {
+        "@id": "node/529777817",
+        "amenity": "pub",
+        "name": "Bourbon and Branch",
+        "@timestamp": "2012-01-29T05:36:26Z",
+        "@version": "5",
+        "@changeset": "10526951",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4131389,
+          37.7859094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540608832",
+      "properties": {
+        "@id": "node/540608832",
+        "amenity": "pub",
+        "name": "Beta Lounge",
+        "@timestamp": "2009-10-26T09:18:06Z",
+        "@version": "1",
+        "@changeset": "2954367",
+        "@user": "Speight",
+        "@uid": "24452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2662966,
+          37.8670561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/568121949",
+      "properties": {
+        "@id": "node/568121949",
+        "amenity": "pub",
+        "name": "Gunrock Pub",
+        "@timestamp": "2012-10-06T20:17:15Z",
+        "@version": "2",
+        "@changeset": "13390245",
+        "@user": "Aric",
+        "@uid": "87286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.753219,
+          38.5385231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/610183472",
+      "properties": {
+        "@id": "node/610183472",
+        "addr:housenumber": "3848",
+        "addr:street": "Geary Boulevard",
+        "amenity": "pub",
+        "name": "Buckshot",
+        "@timestamp": "2012-05-23T05:38:47Z",
+        "@version": "4",
+        "@changeset": "11677750",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4607762,
+          37.7813625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/621179351",
+      "properties": {
+        "@id": "node/621179351",
+        "amenity": "pub",
+        "name": "The Chieftain Irish Pub",
+        "@timestamp": "2010-01-27T12:45:31Z",
+        "@version": "1",
+        "@changeset": "3727612",
+        "@user": "StellanL",
+        "@uid": "28775"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4052843,
+          37.781436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/632817679",
+      "properties": {
+        "@id": "node/632817679",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "230",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "West Portal Avenue",
+        "amenity": "pub",
+        "name": "Que Syrah, A Wine Bar",
+        "@timestamp": "2015-06-28T00:31:10Z",
+        "@version": "5",
+        "@changeset": "32253756",
+        "@user": "AndrewSnow",
+        "@uid": "371121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4685481,
+          37.7386468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/632825392",
+      "properties": {
+        "@id": "node/632825392",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "328",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "West Portal Avenue",
+        "amenity": "pub",
+        "name": "The Dubliner",
+        "@timestamp": "2015-05-25T00:14:22Z",
+        "@version": "5",
+        "@changeset": "31432641",
+        "@user": "AndrewSnow",
+        "@uid": "371121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4696762,
+          37.7377005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/661743616",
+      "properties": {
+        "@id": "node/661743616",
+        "addr:housenumber": "5940",
+        "addr:street": "College Avenue",
+        "amenity": "pub",
+        "name": "Barclay's",
+        "phone": "+1 (510) 654-1650",
+        "website": "http://www.barclayspub.com",
+        "@timestamp": "2013-05-25T19:53:24Z",
+        "@version": "3",
+        "@changeset": "16284058",
+        "@user": "KindredCoda",
+        "@uid": "14293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.251964,
+          37.8479048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/725066736",
+      "properties": {
+        "@id": "node/725066736",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "673",
+        "addr:postcode": "94102",
+        "addr:state": "CA",
+        "addr:street": "Geary Street",
+        "amenity": "pub",
+        "name": "The Ambassador",
+        "phone": "415-563-8192",
+        "url": "http://www.ambassador415.com",
+        "@timestamp": "2012-01-29T05:36:29Z",
+        "@version": "4",
+        "@changeset": "10526951",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4142594,
+          37.7864948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/725066760",
+      "properties": {
+        "@id": "node/725066760",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "600",
+        "addr:state": "CA",
+        "addr:street": "Geary Street",
+        "amenity": "pub",
+        "name": "High Tide",
+        "@timestamp": "2010-05-07T10:53:56Z",
+        "@version": "1",
+        "@changeset": "4628907",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4133361,
+          37.786841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/725096449",
+      "properties": {
+        "@id": "node/725096449",
+        "amenity": "pub",
+        "name": "Bar Adagio",
+        "@timestamp": "2010-05-07T11:21:14Z",
+        "@version": "1",
+        "@changeset": "4628907",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4124456,
+          37.7869597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/730138966",
+      "properties": {
+        "@id": "node/730138966",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1326",
+        "addr:state": "CA",
+        "addr:street": "9th Avenue",
+        "amenity": "pub",
+        "name": "Social Kitchen & Brewery",
+        "@timestamp": "2013-07-22T00:41:53Z",
+        "@version": "2",
+        "@changeset": "17042826",
+        "@user": "thejish",
+        "@uid": "1666718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.466128,
+          37.763493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/731946793",
+      "properties": {
+        "@id": "node/731946793",
+        "addr:city": "San Francisco",
+        "addr:street": "Geary Street",
+        "amenity": "pub",
+        "name": "Geary Club",
+        "@timestamp": "2010-05-13T09:52:31Z",
+        "@version": "1",
+        "@changeset": "4684066",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4159221,
+          37.7865056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/731950219",
+      "properties": {
+        "@id": "node/731950219",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "823",
+        "addr:street": "Geary Street",
+        "amenity": "pub",
+        "name": "Castle Bar",
+        "@timestamp": "2010-05-13T09:58:33Z",
+        "@version": "1",
+        "@changeset": "4684066",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4168985,
+          37.786158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/731950221",
+      "properties": {
+        "@id": "node/731950221",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "839",
+        "addr:street": "Geary Street",
+        "amenity": "pub",
+        "name": "Whisky Thieves",
+        "@timestamp": "2010-05-13T09:58:33Z",
+        "@version": "1",
+        "@changeset": "4684066",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4171613,
+          37.7861198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/731989581",
+      "properties": {
+        "@id": "node/731989581",
+        "addr:city": "San Francisco",
+        "addr:street": "Geary Street",
+        "amenity": "pub",
+        "name": "The Outsiders",
+        "@timestamp": "2010-05-13T10:33:03Z",
+        "@version": "1",
+        "@changeset": "4684066",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4179928,
+          37.78623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/731989588",
+      "properties": {
+        "@id": "node/731989588",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "875",
+        "addr:street": "Geary Street",
+        "amenity": "pub",
+        "name": "Ha-Ra",
+        "@timestamp": "2010-05-13T10:33:03Z",
+        "@version": "1",
+        "@changeset": "4684066",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4176602,
+          37.7860732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/732005631",
+      "properties": {
+        "@id": "node/732005631",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "950",
+        "addr:street": "Geary Street",
+        "amenity": "pub",
+        "name": "Edinburgh Castle",
+        "@timestamp": "2010-07-23T20:39:14Z",
+        "@version": "2",
+        "@changeset": "5298710",
+        "@user": "underachieving",
+        "@uid": "323273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418945,
+          37.7861199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/732005632",
+      "properties": {
+        "@id": "node/732005632",
+        "addr:city": "San Francisco",
+        "addr:street": "Geary Street",
+        "amenity": "pub",
+        "name": "Amsterdam Cafe",
+        "@timestamp": "2010-05-13T10:43:27Z",
+        "@version": "1",
+        "@changeset": "4684066",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4188189,
+          37.78591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/732005635",
+      "properties": {
+        "@id": "node/732005635",
+        "amenity": "pub",
+        "name": "Hanaro",
+        "@timestamp": "2010-05-13T10:43:27Z",
+        "@version": "1",
+        "@changeset": "4684066",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4189262,
+          37.7859078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/732009026",
+      "properties": {
+        "@id": "node/732009026",
+        "addr:city": "San Francisco",
+        "addr:street": "Geary Street",
+        "amenity": "pub",
+        "name": "Elements",
+        "@timestamp": "2010-05-13T10:51:14Z",
+        "@version": "1",
+        "@changeset": "4684066",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4203773,
+          37.7859269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/732009038",
+      "properties": {
+        "@id": "node/732009038",
+        "addr:city": "San Francisco",
+        "addr:street": "Geary Street",
+        "amenity": "pub",
+        "name": "Koko",
+        "@timestamp": "2010-05-13T10:51:17Z",
+        "@version": "1",
+        "@changeset": "4684066",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4206804,
+          37.7858888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/774058148",
+      "properties": {
+        "@id": "node/774058148",
+        "amenity": "pub",
+        "name": "Mission Bar",
+        "@timestamp": "2010-06-16T21:08:56Z",
+        "@version": "1",
+        "@changeset": "5004448",
+        "@user": "mvexel",
+        "@uid": "8909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4184346,
+          37.7542146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/796602147",
+      "properties": {
+        "@id": "node/796602147",
+        "addr:city": "Alameda",
+        "addr:housenumber": "705",
+        "addr:postcode": "94501",
+        "addr:street": "Central Avenue",
+        "amenity": "pub",
+        "name": "Croll's Bar",
+        "phone": "510-864-2828",
+        "website": "http://www.crollspizza.com/Home.html",
+        "@timestamp": "2013-07-20T21:08:23Z",
+        "@version": "2",
+        "@changeset": "17028723",
+        "@user": "curiousscholar",
+        "@uid": "1535927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27679,
+          37.7715697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/796647308",
+      "properties": {
+        "@id": "node/796647308",
+        "amenity": "pub",
+        "name": "Clayton Club Saloon",
+        "@timestamp": "2012-01-28T10:02:02Z",
+        "@version": "2",
+        "@changeset": "10519288",
+        "@user": "rkt88edmo",
+        "@uid": "595333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9350086,
+          37.9411435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/796647440",
+      "properties": {
+        "@id": "node/796647440",
+        "amenity": "pub",
+        "name": "The Warehouse Cafe",
+        "@timestamp": "2010-06-30T04:03:34Z",
+        "@version": "1",
+        "@changeset": "5110562",
+        "@user": "Chris Bell in California",
+        "@uid": "194231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1832597,
+          38.0464374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/808884908",
+      "properties": {
+        "@id": "node/808884908",
+        "amenity": "pub",
+        "name": "First Crush Wine Bar",
+        "@timestamp": "2012-03-14T02:50:25Z",
+        "@version": "2",
+        "@changeset": "10974057",
+        "@user": "Davidazus",
+        "@uid": "462373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.408968,
+          37.7855234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/808930729",
+      "properties": {
+        "@id": "node/808930729",
+        "amenity": "pub",
+        "name": "Johnny Foley's Irish House",
+        "@timestamp": "2010-07-09T23:45:51Z",
+        "@version": "1",
+        "@changeset": "5178006",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4087519,
+          37.7862372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/819444936",
+      "properties": {
+        "@id": "node/819444936",
+        "amenity": "pub",
+        "name": "Lush Lounge",
+        "source": "survey",
+        "@timestamp": "2012-02-11T18:36:13Z",
+        "@version": "2",
+        "@changeset": "10655837",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420349,
+          37.7881395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/819444949",
+      "properties": {
+        "@id": "node/819444949",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1237",
+        "addr:state": "CA",
+        "addr:street": "Polk Street",
+        "amenity": "pub",
+        "name": "McTeague's Saloon",
+        "source": "survey",
+        "@timestamp": "2015-06-19T15:09:51Z",
+        "@version": "2",
+        "@changeset": "32077237",
+        "@user": "mpmckenna8",
+        "@uid": "1213904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4204032,
+          37.7883948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/819444992",
+      "properties": {
+        "@id": "node/819444992",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:state": "CA",
+        "addr:street": "Polk Street",
+        "amenity": "pub",
+        "name": "Vertigo",
+        "source": "survey",
+        "@timestamp": "2010-07-15T19:46:36Z",
+        "@version": "1",
+        "@changeset": "5229754",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4199558,
+          37.7875516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/819445046",
+      "properties": {
+        "@id": "node/819445046",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:state": "CA",
+        "addr:street": "Polk Street",
+        "amenity": "pub",
+        "name": "Blur",
+        "source": "survey",
+        "@timestamp": "2012-02-02T08:20:50Z",
+        "@version": "2",
+        "@changeset": "10565257",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4201508,
+          37.7872024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/819445060",
+      "properties": {
+        "@id": "node/819445060",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:state": "CA",
+        "addr:street": "Polk Street",
+        "amenity": "pub",
+        "name": "Hemlock",
+        "source": "survey",
+        "@timestamp": "2010-07-15T19:46:38Z",
+        "@version": "1",
+        "@changeset": "5229754",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4201811,
+          37.7873608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/825914928",
+      "properties": {
+        "@id": "node/825914928",
+        "addr:postcode": "94109",
+        "amenity": "pub",
+        "name": "playland bar",
+        "@timestamp": "2014-01-02T21:42:45Z",
+        "@version": "3",
+        "@changeset": "19776399",
+        "@user": "mpmckenna8",
+        "@uid": "1213904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4206087,
+          37.7894988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/825915019",
+      "properties": {
+        "@id": "node/825915019",
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "1327",
+        "addr:state": "CA",
+        "addr:street": "Polk Street",
+        "amenity": "pub",
+        "name": "Pour House",
+        "source": "survey",
+        "@timestamp": "2014-01-02T22:03:39Z",
+        "@version": "2",
+        "@changeset": "19776865",
+        "@user": "mpmckenna8",
+        "@uid": "1213904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4205448,
+          37.7890756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/857054549",
+      "properties": {
+        "@id": "node/857054549",
+        "amenity": "pub",
+        "name": "Sudwerk",
+        "@timestamp": "2013-05-01T04:58:22Z",
+        "@version": "2",
+        "@changeset": "15928779",
+        "@user": "Aric",
+        "@uid": "87286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7257889,
+          38.5469339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/926977575",
+      "properties": {
+        "@id": "node/926977575",
+        "amenity": "pub",
+        "microbrewery": "no",
+        "name": "Missouri Lounge",
+        "outdoor_seating": "yes",
+        "@timestamp": "2013-03-16T19:40:19Z",
+        "@version": "3",
+        "@changeset": "15388200",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.289119,
+          37.8591303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/960935758",
+      "properties": {
+        "@id": "node/960935758",
+        "amenity": "pub",
+        "name": "CNM Bar",
+        "@timestamp": "2012-04-09T05:11:38Z",
+        "@version": "2",
+        "@changeset": "11233292",
+        "@user": "KindredCoda",
+        "@uid": "14293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5082058,
+          37.7604918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/960935983",
+      "properties": {
+        "@id": "node/960935983",
+        "amenity": "pub",
+        "name": "Pittsburgh's Pub",
+        "@timestamp": "2010-10-22T23:54:43Z",
+        "@version": "1",
+        "@changeset": "6141237",
+        "@user": "William K Klemens",
+        "@uid": "90391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5071275,
+          37.7602586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/974267648",
+      "properties": {
+        "@id": "node/974267648",
+        "amenity": "pub",
+        "name": "Kezar",
+        "wheelchair": "yes",
+        "@timestamp": "2012-08-18T20:42:57Z",
+        "@version": "4",
+        "@changeset": "12769358",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4498136,
+          37.7657294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1037998932",
+      "properties": {
+        "@id": "node/1037998932",
+        "addr:city": "Oakland",
+        "addr:housenumber": "906",
+        "addr:postcode": "94607",
+        "addr:street": "Washington Street",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Pacific Coast Brewery",
+        "phone": "+1 510 8362739",
+        "smoking": "no",
+        "website": "http://www.pacificcoastbrewing.com/",
+        "wheelchair": "yes",
+        "@timestamp": "2015-05-04T22:30:11Z",
+        "@version": "3",
+        "@changeset": "30793379",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2742405,
+          37.8015933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1053548356",
+      "properties": {
+        "@id": "node/1053548356",
+        "amenity": "pub",
+        "name": "Silver Peso",
+        "@timestamp": "2010-12-21T05:28:47Z",
+        "@version": "1",
+        "@changeset": "6722276",
+        "@user": "phoenix23",
+        "@uid": "383461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5351895,
+          37.9352206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1083221110",
+      "properties": {
+        "@id": "node/1083221110",
+        "amenity": "pub",
+        "name": "Red Jack Saloon",
+        "source": "local_knowledge",
+        "@timestamp": "2011-01-05T07:58:51Z",
+        "@version": "1",
+        "@changeset": "6869000",
+        "@user": "Gregory Arenius",
+        "@uid": "116029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4098476,
+          37.8059987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1193380532",
+      "properties": {
+        "@id": "node/1193380532",
+        "amenity": "pub",
+        "name": "The Pub",
+        "@timestamp": "2011-03-08T21:15:20Z",
+        "@version": "1",
+        "@changeset": "7498607",
+        "@user": "JessAk71",
+        "@uid": "381909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4229021,
+          37.8062133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1195044184",
+      "properties": {
+        "@id": "node/1195044184",
+        "addr:city": "Point Richmond",
+        "addr:country": "US",
+        "addr:housenumber": "2",
+        "addr:postcode": "94901",
+        "addr:state": "CA",
+        "addr:street": "West Richmond Avenue",
+        "amenity": "pub",
+        "name": "Up and Under",
+        "website": "http://www.theupandunder.com/",
+        "@timestamp": "2014-09-27T20:42:36Z",
+        "@version": "3",
+        "@changeset": "25713550",
+        "@user": "wvdp",
+        "@uid": "436419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.384655,
+          37.9254563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1211157016",
+      "properties": {
+        "@id": "node/1211157016",
+        "addr:housenumber": "1849",
+        "addr:street": "Lincoln Way",
+        "amenity": "pub",
+        "name": "Chug Pub",
+        "@timestamp": "2011-03-21T18:54:47Z",
+        "@version": "3",
+        "@changeset": "7630422",
+        "@user": "xybot",
+        "@uid": "70696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4781609,
+          37.7652442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1230343377",
+      "properties": {
+        "@id": "node/1230343377",
+        "amenity": "pub",
+        "name": "Restaurante-Pupusería Ilobasco",
+        "@timestamp": "2011-04-03T08:36:15Z",
+        "@version": "1",
+        "@changeset": "7751345",
+        "@user": "balrog-kun",
+        "@uid": "20587"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4039937,
+          37.7278009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1230343426",
+      "properties": {
+        "@id": "node/1230343426",
+        "amenity": "pub",
+        "name": "Judnich's",
+        "@timestamp": "2012-12-10T07:07:47Z",
+        "@version": "2",
+        "@changeset": "14222198",
+        "@user": "tkmedia",
+        "@uid": "183737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4028439,
+          37.7253753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1230343464",
+      "properties": {
+        "@id": "node/1230343464",
+        "amenity": "pub",
+        "name": "Fat Beli Deli",
+        "@timestamp": "2012-12-10T06:43:53Z",
+        "@version": "2",
+        "@changeset": "14222198",
+        "@user": "tkmedia",
+        "@uid": "183737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.404354,
+          37.7288873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1234603544",
+      "properties": {
+        "@id": "node/1234603544",
+        "addr:city": "Oakland",
+        "addr:housenumber": "464",
+        "addr:postcode": "94607",
+        "addr:state": "CA",
+        "addr:street": "3rd Street",
+        "address": "464 3rd Street",
+        "amenity": "pub",
+        "name": "Beer Revolution",
+        "name_1": "Beer Rev",
+        "outdoor_seating": "yes",
+        "phone": "15104522337",
+        "website": "http://www.beer-revolution.com",
+        "wheelchair": "yes",
+        "wifi": "no",
+        "@timestamp": "2014-11-12T22:30:41Z",
+        "@version": "6",
+        "@changeset": "26745862",
+        "@user": "mpmckenna8",
+        "@uid": "1213904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2762711,
+          37.7971044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1247617033",
+      "properties": {
+        "@id": "node/1247617033",
+        "amenity": "pub",
+        "name": "Victorian Pub",
+        "@timestamp": "2011-04-16T20:26:04Z",
+        "@version": "1",
+        "@changeset": "7881847",
+        "@user": "nmixter",
+        "@uid": "55774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1392529,
+          37.6857546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1295101185",
+      "properties": {
+        "@id": "node/1295101185",
+        "addr:housenumber": "650",
+        "addr:street": "Gough Street",
+        "amenity": "pub",
+        "name": "Smuggler's Cove",
+        "@timestamp": "2011-05-21T16:08:09Z",
+        "@version": "1",
+        "@changeset": "8208183",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4233728,
+          37.779406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1318183397",
+      "properties": {
+        "@id": "node/1318183397",
+        "addr:housenumber": "133",
+        "amenity": "pub",
+        "name": "Eddie Rickenbacker's",
+        "@timestamp": "2012-02-01T04:46:10Z",
+        "@version": "3",
+        "@changeset": "10555863",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3990782,
+          37.7876271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1388233468",
+      "properties": {
+        "@id": "node/1388233468",
+        "addr:housenumber": "2882",
+        "addr:postcode": "94609",
+        "addr:street": "Telegraph Avenue",
+        "amenity": "pub",
+        "name": "Commonwealth Cafe and Public House",
+        "name_1": "The Commonwealth",
+        "name_2": "Commonwealth Pub",
+        "source": "http://www.yelp.com/biz/commonwealth-cafe-and-pub-oakland-2",
+        "website": "http://www.cmonoakland.com/",
+        "@timestamp": "2015-03-03T18:34:39Z",
+        "@version": "2",
+        "@changeset": "29228932",
+        "@user": "nbadg",
+        "@uid": "2053412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2672587,
+          37.8180313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1402389036",
+      "properties": {
+        "@id": "node/1402389036",
+        "amenity": "pub",
+        "atm": "yes",
+        "food": "yes",
+        "toilets": "yes",
+        "@timestamp": "2014-06-16T22:04:43Z",
+        "@version": "2",
+        "@changeset": "22973810",
+        "@user": "Rub21",
+        "@uid": "510836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194724,
+          37.8076473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1422620367",
+      "properties": {
+        "@id": "node/1422620367",
+        "amenity": "pub",
+        "name": "Fox and Goose Public House",
+        "@timestamp": "2011-09-04T02:19:21Z",
+        "@version": "1",
+        "@changeset": "9205101",
+        "@user": "jkendow",
+        "@uid": "509902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4969733,
+          38.5715774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1464209292",
+      "properties": {
+        "@id": "node/1464209292",
+        "amenity": "pub",
+        "name": "Red Sea",
+        "@timestamp": "2011-10-12T18:18:23Z",
+        "@version": "1",
+        "@changeset": "9541089",
+        "@user": "JessAk71",
+        "@uid": "381909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2612469,
+          37.8384149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1464209294",
+      "properties": {
+        "@id": "node/1464209294",
+        "amenity": "pub",
+        "name": "Kingfish",
+        "@timestamp": "2011-10-12T18:18:23Z",
+        "@version": "1",
+        "@changeset": "9541089",
+        "@user": "JessAk71",
+        "@uid": "381909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2615983,
+          37.8385907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1485992620",
+      "properties": {
+        "@id": "node/1485992620",
+        "amenity": "pub",
+        "name": "Chelsea Place",
+        "@timestamp": "2015-03-11T05:56:09Z",
+        "@version": "2",
+        "@changeset": "29397853",
+        "@user": "ssjazz",
+        "@uid": "2747838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4079122,
+          37.7901588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1573075647",
+      "properties": {
+        "@id": "node/1573075647",
+        "amenity": "pub",
+        "name": "Stein Lounge",
+        "@timestamp": "2012-01-01T19:49:58Z",
+        "@version": "1",
+        "@changeset": "10265031",
+        "@user": "nmixter",
+        "@uid": "55774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0830876,
+          37.6723145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1573078832",
+      "properties": {
+        "@id": "node/1573078832",
+        "amenity": "pub",
+        "name": "Buffalo Bill's",
+        "@timestamp": "2012-01-04T02:45:33Z",
+        "@version": "2",
+        "@changeset": "10287779",
+        "@user": "nmixter",
+        "@uid": "55774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0816309,
+          37.6738047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1573211001",
+      "properties": {
+        "@id": "node/1573211001",
+        "amenity": "pub",
+        "name": "B Street Bar",
+        "@timestamp": "2012-01-01T21:19:38Z",
+        "@version": "1",
+        "@changeset": "10265959",
+        "@user": "nmixter",
+        "@uid": "55774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0846647,
+          37.6719068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1580633321",
+      "properties": {
+        "@id": "node/1580633321",
+        "amenity": "pub",
+        "name": "Crogan's",
+        "@timestamp": "2012-01-07T07:59:05Z",
+        "@version": "1",
+        "@changeset": "10318803",
+        "@user": "Davidazus",
+        "@uid": "462373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.210451,
+          37.8264843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1581862143",
+      "properties": {
+        "@id": "node/1581862143",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1068",
+        "addr:street": "Hyde Street",
+        "amenity": "pub",
+        "name": "The Hyde Out",
+        "@timestamp": "2014-11-25T17:50:35Z",
+        "@version": "3",
+        "@changeset": "27027333",
+        "@user": "mpmckenna8",
+        "@uid": "1213904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4172479,
+          37.7908937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1589843023",
+      "properties": {
+        "@id": "node/1589843023",
+        "addr:housenumber": "2700",
+        "addr:street": "16th Street",
+        "amenity": "pub",
+        "name": "Dear Mom",
+        "@timestamp": "2012-01-14T18:47:36Z",
+        "@version": "1",
+        "@changeset": "10391009",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4133134,
+          37.7656126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607246339",
+      "properties": {
+        "@id": "node/1607246339",
+        "addr:housenumber": "555",
+        "addr:postcode": "94107",
+        "addr:street": "2nd Street",
+        "amenity": "pub",
+        "email": "novabarsf@yahoo.com",
+        "name": "Nova Bar & Restaurant",
+        "phone": "+1 415 543 2282",
+        "website": "http://www.novabar.com/",
+        "@timestamp": "2012-01-27T07:11:31Z",
+        "@version": "1",
+        "@changeset": "10509675",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3926613,
+          37.7825015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1612664705",
+      "properties": {
+        "@id": "node/1612664705",
+        "addr:housenumber": "834",
+        "addr:street": "Irving Street",
+        "amenity": "pub",
+        "name": "Blackthorn",
+        "@timestamp": "2012-01-31T08:05:48Z",
+        "@version": "2",
+        "@changeset": "10546884",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4670445,
+          37.7641403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613829038",
+      "properties": {
+        "@id": "node/1613829038",
+        "amenity": "pub",
+        "name": "Steff's Sports Bar",
+        "@timestamp": "2012-02-01T04:46:12Z",
+        "@version": "2",
+        "@changeset": "10555863",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3989958,
+          37.787564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613924531",
+      "properties": {
+        "@id": "node/1613924531",
+        "addr:housename": "579",
+        "addr:street": "Howard Street",
+        "amenity": "pub",
+        "name": "Kate O'Briens",
+        "opening_hours": "Mo-Sa 11:00-02:00; Su 10:00-02:00",
+        "phone": "+1 415 882 7240",
+        "website": "http://www.kateobriens.com/",
+        "@timestamp": "2012-02-01T06:59:02Z",
+        "@version": "1",
+        "@changeset": "10556267",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3975812,
+          37.7871363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1680714458",
+      "properties": {
+        "@id": "node/1680714458",
+        "addr:housenumber": "1402",
+        "addr:street": "Grant Ave",
+        "amenity": "pub",
+        "name": "Church Key",
+        "website": "https://www.facebook.com/ChurchKeySF",
+        "wifi": "yes",
+        "@timestamp": "2012-03-18T20:48:22Z",
+        "@version": "1",
+        "@changeset": "11023870",
+        "@user": "informationchef",
+        "@uid": "632322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4073831,
+          37.7998453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1693507582",
+      "properties": {
+        "@id": "node/1693507582",
+        "addr:housename": "Old Fire Station",
+        "addr:housenumber": "2369",
+        "addr:postcode": "94550",
+        "addr:street": "First Street",
+        "amenity": "pub",
+        "name": "Sanctuary Ultra Lounge",
+        "website": "http://sanctuaryultralounge.com",
+        "wifi": "free",
+        "@timestamp": "2012-03-27T17:45:33Z",
+        "@version": "1",
+        "@changeset": "11118558",
+        "@user": "MaximusMurphy",
+        "@uid": "640284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7671462,
+          37.6828661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713269598",
+      "properties": {
+        "@id": "node/1713269598",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3838",
+        "addr:street": "24th Street",
+        "amenity": "pub",
+        "name": "The Dubliner",
+        "@timestamp": "2014-08-04T17:47:23Z",
+        "@version": "2",
+        "@changeset": "24540498",
+        "@user": "dbaron",
+        "@uid": "481533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4283247,
+          37.7517362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713269625",
+      "properties": {
+        "@id": "node/1713269625",
+        "amenity": "pub",
+        "name": "The Valley Tavern",
+        "@timestamp": "2012-04-12T20:14:09Z",
+        "@version": "1",
+        "@changeset": "11280655",
+        "@user": "StellanL",
+        "@uid": "28775"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4331195,
+          37.7514412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713269638",
+      "properties": {
+        "@id": "node/1713269638",
+        "addr:housenumber": "1316",
+        "amenity": "pub",
+        "name": "The Peaks",
+        "postal_code": "94114",
+        "@timestamp": "2013-01-26T18:24:56Z",
+        "@version": "4",
+        "@changeset": "14796087",
+        "@user": "zacmccormick",
+        "@uid": "492311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434183,
+          37.7509841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1723171378",
+      "properties": {
+        "@id": "node/1723171378",
+        "addr:city": "Oakland",
+        "addr:housenumber": "5515",
+        "addr:street": "College Avenue",
+        "amenity": "pub",
+        "name": "Ye Olde Hut",
+        "wheelchair": "no",
+        "@timestamp": "2015-06-13T05:17:05Z",
+        "@version": "4",
+        "@changeset": "31936392",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.251771,
+          37.842868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1727220232",
+      "properties": {
+        "@id": "node/1727220232",
+        "amenity": "pub",
+        "microbrewery": "no",
+        "name": "Stadium Pub",
+        "@timestamp": "2012-09-17T04:33:54Z",
+        "@version": "2",
+        "@changeset": "13138485",
+        "@user": "db48x",
+        "@uid": "25604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0611883,
+          37.9007343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769223519",
+      "properties": {
+        "@id": "node/1769223519",
+        "amenity": "pub",
+        "name": "McKenzie's",
+        "@timestamp": "2012-05-29T06:59:35Z",
+        "@version": "1",
+        "@changeset": "11734679",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4765067,
+          37.7806539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1777418695",
+      "properties": {
+        "@id": "node/1777418695",
+        "addr:housenumber": "1000",
+        "addr:street": "Columbus Avenue",
+        "amenity": "pub",
+        "name": "International Sports Club",
+        "@timestamp": "2012-06-05T20:43:15Z",
+        "@version": "1",
+        "@changeset": "11810262",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4151115,
+          37.8038797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1805750179",
+      "properties": {
+        "@id": "node/1805750179",
+        "amenity": "pub",
+        "name": "Southern Pacific Brewing",
+        "@timestamp": "2012-06-29T05:48:27Z",
+        "@version": "1",
+        "@changeset": "12053060",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4139896,
+          37.7601311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1819811599",
+      "properties": {
+        "@id": "node/1819811599",
+        "amenity": "pub",
+        "name": "The Bitter End",
+        "@timestamp": "2012-07-10T07:13:34Z",
+        "@version": "1",
+        "@changeset": "12169912",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4639845,
+          37.7828519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1837788298",
+      "properties": {
+        "@id": "node/1837788298",
+        "addr:housenumber": "1655",
+        "addr:street": "Mission Road",
+        "amenity": "pub",
+        "name": "Molloy's Tavern",
+        "@timestamp": "2012-07-25T15:44:18Z",
+        "@version": "1",
+        "@changeset": "12488577",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4510517,
+          37.6701385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1880217201",
+      "properties": {
+        "@id": "node/1880217201",
+        "amenity": "pub",
+        "name": "Azucar Lounge",
+        "wheelchair": "yes",
+        "@timestamp": "2013-12-11T18:06:46Z",
+        "@version": "2",
+        "@changeset": "19399832",
+        "@user": "JeffM8",
+        "@uid": "597941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4116206,
+          37.7739967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1880231931",
+      "properties": {
+        "@id": "node/1880231931",
+        "addr:housenumber": "93",
+        "addr:postcode": "94103",
+        "addr:street": "9th Street",
+        "amenity": "pub",
+        "name": "Club 93",
+        "phone": "+1 415 522 0200",
+        "@timestamp": "2012-12-17T15:49:21Z",
+        "@version": "2",
+        "@changeset": "14307642",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4148446,
+          37.7765323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1919078194",
+      "properties": {
+        "@id": "node/1919078194",
+        "amenity": "pub",
+        "name": "Preserve Public House",
+        "@timestamp": "2012-09-17T19:47:51Z",
+        "@version": "1",
+        "@changeset": "13148284",
+        "@user": "boogieriver",
+        "@uid": "891424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9685876,
+          38.5211037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1919078195",
+      "properties": {
+        "@id": "node/1919078195",
+        "amenity": "pub",
+        "name": "Main Street Cellars",
+        "website": "http://mainstreetcellars.com",
+        "@timestamp": "2012-09-17T19:47:51Z",
+        "@version": "1",
+        "@changeset": "13148284",
+        "@user": "boogieriver",
+        "@uid": "891424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9680324,
+          38.5222872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1919108447",
+      "properties": {
+        "@id": "node/1919108447",
+        "amenity": "pub",
+        "name": "Berryessa Gap Tasting Room",
+        "website": "http://www.berryessagap.com/Visit-Us/Tasting-Room",
+        "@timestamp": "2012-09-17T20:02:29Z",
+        "@version": "1",
+        "@changeset": "13148456",
+        "@user": "boogieriver",
+        "@uid": "891424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9693866,
+          38.5217962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1919108452",
+      "properties": {
+        "@id": "node/1919108452",
+        "amenity": "pub",
+        "name": "Rootstock Gifts & Tasting Room",
+        "website": "http://www.rootstockgifts.com/Pages/default.aspx",
+        "@timestamp": "2012-09-17T20:02:29Z",
+        "@version": "1",
+        "@changeset": "13148456",
+        "@user": "boogieriver",
+        "@uid": "891424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.969502,
+          38.5214437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1919108467",
+      "properties": {
+        "@id": "node/1919108467",
+        "amenity": "pub",
+        "name": "Turkovich Family Wines",
+        "website": "http://turkovichwines.com/",
+        "@timestamp": "2012-09-17T20:02:30Z",
+        "@version": "1",
+        "@changeset": "13148456",
+        "@user": "boogieriver",
+        "@uid": "891424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9691345,
+          38.5220376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1940405912",
+      "properties": {
+        "@id": "node/1940405912",
+        "amenity": "pub",
+        "name": "Ireland's 32",
+        "@timestamp": "2012-09-30T19:53:31Z",
+        "@version": "1",
+        "@changeset": "13314612",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4614374,
+          37.7813471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2026996088",
+      "properties": {
+        "@id": "node/2026996088",
+        "addr:housenumber": "736",
+        "addr:street": "Washington Street",
+        "amenity": "pub",
+        "name": "The GO Sports Bar",
+        "phone": "+1 510 452 1258",
+        "@timestamp": "2012-11-22T20:51:35Z",
+        "@version": "1",
+        "@changeset": "13991088",
+        "@user": "saikofish",
+        "@uid": "236172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2749082,
+          37.8004797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2053898553",
+      "properties": {
+        "@id": "node/2053898553",
+        "amenity": "pub",
+        "name": "Kensington Circus Pub",
+        "@timestamp": "2012-12-07T05:54:16Z",
+        "@version": "1",
+        "@changeset": "14183807",
+        "@user": "oba510",
+        "@uid": "933797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2871835,
+          37.899751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2054130299",
+      "properties": {
+        "@id": "node/2054130299",
+        "amenity": "pub",
+        "name": "St. Mary's Pub",
+        "@timestamp": "2012-12-07T10:18:48Z",
+        "@version": "1",
+        "@changeset": "14184929",
+        "@user": "tkmedia",
+        "@uid": "183737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4245037,
+          37.7354739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2074591756",
+      "properties": {
+        "@id": "node/2074591756",
+        "addr:housenumber": "1560",
+        "addr:street": "Powell Street",
+        "amenity": "pub",
+        "name": "Northstar Cafe",
+        "@timestamp": "2012-12-19T14:15:42Z",
+        "@version": "1",
+        "@changeset": "14331670",
+        "@user": "tkmedia",
+        "@uid": "183737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4104685,
+          37.7992129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2104792670",
+      "properties": {
+        "@id": "node/2104792670",
+        "addr:city": "Livermore",
+        "addr:housenumber": "2106",
+        "addr:state": "CA",
+        "addr:street": "First Street",
+        "amenity": "pub",
+        "email": "firststreetalehouse@hotmail.com",
+        "name": "First Street Alehouse",
+        "opening_hours": "Mo-We 11:00-22:30; Th-Fr 11:00-0:00; Sa 9:00-0:00; Su 8:30-22:30",
+        "phone": "+1 925-371-6588",
+        "website": "http://www.firststreetalehouse.com/",
+        "@timestamp": "2014-01-07T18:23:54Z",
+        "@version": "2",
+        "@changeset": "19868022",
+        "@user": "wegavision",
+        "@uid": "564585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7700055,
+          37.6814706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2104806145",
+      "properties": {
+        "@id": "node/2104806145",
+        "amenity": "pub",
+        "name": "Beeb's Sports Bar",
+        "@timestamp": "2013-01-10T21:16:59Z",
+        "@version": "1",
+        "@changeset": "14603371",
+        "@user": "DunkinDave",
+        "@uid": "1195046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8247077,
+          37.6969564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2240839554",
+      "properties": {
+        "@id": "node/2240839554",
+        "amenity": "pub",
+        "name": "Polo Grounds",
+        "@timestamp": "2013-04-01T05:06:30Z",
+        "@version": "1",
+        "@changeset": "15562458",
+        "@user": "Martin Atkins",
+        "@uid": "6585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3920778,
+          37.7784977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2249465803",
+      "properties": {
+        "@id": "node/2249465803",
+        "addr:housenumber": "101",
+        "amenity": "pub",
+        "name": "Englander",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 11:00-21:30",
+        "phone": "+1-510-357-3571",
+        "website": "www. englanderpub.com",
+        "@timestamp": "2014-06-17T05:42:42Z",
+        "@version": "3",
+        "@changeset": "22976989",
+        "@user": "nereocystis",
+        "@uid": "1835512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1531795,
+          37.7219238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2249504566",
+      "properties": {
+        "@id": "node/2249504566",
+        "amenity": "pub",
+        "name": "Irish Bank",
+        "@timestamp": "2013-04-05T00:13:36Z",
+        "@version": "1",
+        "@changeset": "15614493",
+        "@user": "denimboy",
+        "@uid": "696201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4047224,
+          37.7904363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2249505215",
+      "properties": {
+        "@id": "node/2249505215",
+        "amenity": "pub",
+        "name": "Murphys",
+        "wheelchair": "limited",
+        "@timestamp": "2013-08-16T18:47:42Z",
+        "@version": "2",
+        "@changeset": "17373451",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4040143,
+          37.7900568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2249505473",
+      "properties": {
+        "@id": "node/2249505473",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "801",
+        "addr:postcode": "94108",
+        "addr:street": "Bush Street",
+        "amenity": "pub",
+        "name": "Summer Place",
+        "smoking": "no",
+        "@timestamp": "2014-07-10T05:36:50Z",
+        "@version": "3",
+        "@changeset": "24056962",
+        "@user": "David Strauss",
+        "@uid": "2176692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4105884,
+          37.7898428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2259028667",
+      "properties": {
+        "@id": "node/2259028667",
+        "amenity": "pub",
+        "name": "Harringtons",
+        "@timestamp": "2013-04-08T23:45:21Z",
+        "@version": "1",
+        "@changeset": "15660717",
+        "@user": "denimboy",
+        "@uid": "696201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4172289,
+          37.7822396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2287535863",
+      "properties": {
+        "@id": "node/2287535863",
+        "addr:housenumber": "1813",
+        "addr:postcode": "94117",
+        "addr:street": "Fulton Street",
+        "amenity": "pub",
+        "name": "Bistro Gambrinus",
+        "website": "beerandgrill.com",
+        "@timestamp": "2013-04-30T23:50:15Z",
+        "@version": "1",
+        "@changeset": "15927535",
+        "@user": "jabel119",
+        "@uid": "1405729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446947,
+          37.7756308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2312172452",
+      "properties": {
+        "@id": "node/2312172452",
+        "amenity": "pub",
+        "name": "The Graduate",
+        "phone": "+1 530-758-4723",
+        "website": "http://www.davisgrad.com/",
+        "@timestamp": "2013-05-20T00:12:20Z",
+        "@version": "1",
+        "@changeset": "16201512",
+        "@user": "Aric",
+        "@uid": "87286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7597802,
+          38.5471609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2336118596",
+      "properties": {
+        "@id": "node/2336118596",
+        "addr:city": "Berkeley",
+        "addr:housenumber": "3101",
+        "addr:postcode": "94705",
+        "addr:street": "Shattuck Avenue",
+        "amenity": "pub",
+        "name": "The Starry Plough",
+        "opening_hours": "Mo-Fr 16:00-02:00; Sa-Su 14:00-02:00",
+        "phone": "+1 (510) 841-0188",
+        "smoking": "outside",
+        "source": "local knowledge",
+        "website": "http://www.thestarryplough.com/",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-04T17:28:54Z",
+        "@version": "4",
+        "@changeset": "26553170",
+        "@user": "P Dill",
+        "@uid": "192581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2660849,
+          37.8530119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2340019960",
+      "properties": {
+        "@id": "node/2340019960",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3131",
+        "addr:street": "Fillmore Street",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Cellar Door",
+        "@timestamp": "2013-06-11T01:30:13Z",
+        "@version": "2",
+        "@changeset": "16504121",
+        "@user": "coleman",
+        "@uid": "93788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.435945,
+          37.79842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2422144977",
+      "properties": {
+        "@id": "node/2422144977",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "Pier 28",
+        "addr:street": "Embarcadero",
+        "amenity": "pub",
+        "name": "Hi Dive",
+        "phone": "+1 415-977-0170",
+        "website": "http://www.hidivesf.com/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Good for wheelchairs, bathroom might be small, patio is accessible",
+        "@timestamp": "2015-02-20T01:41:30Z",
+        "@version": "2",
+        "@changeset": "28969426",
+        "@user": "dwhly",
+        "@uid": "1917404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3874695,
+          37.7876187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2538427496",
+      "properties": {
+        "@id": "node/2538427496",
+        "amenity": "pub",
+        "cuisine": "Vegan_pop-up_kitchen",
+        "name": "Bender's Bar and Grill",
+        "wheelchair": "limited",
+        "@timestamp": "2014-12-29T00:25:27Z",
+        "@version": "3",
+        "@changeset": "27766856",
+        "@user": "wheelmap_android",
+        "@uid": "524500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4171637,
+          37.7602344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2557920313",
+      "properties": {
+        "@id": "node/2557920313",
+        "amenity": "pub",
+        "name": "Ben 'N Nick's",
+        "@timestamp": "2013-11-29T23:20:19Z",
+        "@version": "1",
+        "@changeset": "19187138",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.251528,
+          37.843531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2615163443",
+      "properties": {
+        "@id": "node/2615163443",
+        "addr:city": "Livermore",
+        "addr:housenumber": "2223",
+        "addr:state": "CA",
+        "addr:street": "First Street",
+        "amenity": "pub",
+        "name": "Livermore Saloon",
+        "opening_hours": "Mo 17:00-00:00; Tu-Sa 13:00-2:00; Su 12:00-00:00",
+        "phone": "925-579-4865",
+        "website": "http://www.livermoresaloon.com/",
+        "@timestamp": "2014-01-08T19:23:57Z",
+        "@version": "1",
+        "@changeset": "19888427",
+        "@user": "wegavision",
+        "@uid": "564585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7684021,
+          37.6815811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2624201223",
+      "properties": {
+        "@id": "node/2624201223",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2247",
+        "addr:postcode": "94114",
+        "addr:street": "Market Street",
+        "amenity": "pub",
+        "name": "Hi Tops",
+        "website": "http://hitopssf.com",
+        "@timestamp": "2014-01-16T00:23:45Z",
+        "@version": "1",
+        "@changeset": "20025494",
+        "@user": "RoyMcKenzie",
+        "@uid": "1887170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4318228,
+          37.7649986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2640702476",
+      "properties": {
+        "@id": "node/2640702476",
+        "addr:housenumber": "575",
+        "addr:street": "Howard Street",
+        "alt_name": "South Side Spirits",
+        "amenity": "pub",
+        "name": "Southside Spirit House",
+        "phone": "4155435874",
+        "website": "http://www.southsidesf.com",
+        "@timestamp": "2014-01-28T08:35:05Z",
+        "@version": "1",
+        "@changeset": "20242958",
+        "@user": "mattflaschen",
+        "@uid": "25985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3975081,
+          37.7871563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2793999388",
+      "properties": {
+        "@id": "node/2793999388",
+        "addr:city": "Sonoma",
+        "addr:housenumber": "464",
+        "addr:postcode": "95476",
+        "addr:street": "1st Street East",
+        "amenity": "pub",
+        "name": "Murphy's Irish Pub",
+        "phone": "+1 707 935-0660",
+        "smoking": "outside",
+        "website": "http://www.sonomapub.com/",
+        "wheelchair": "yes",
+        "@timestamp": "2014-04-16T02:57:44Z",
+        "@version": "1",
+        "@changeset": "21721515",
+        "@user": "SarahStierch",
+        "@uid": "2032478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4558064,
+          38.2924023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2853236259",
+      "properties": {
+        "@id": "node/2853236259",
+        "addr:city": "Sacramento",
+        "addr:housenumber": "2332",
+        "addr:postcode": "95816",
+        "addr:street": "K Street",
+        "amenity": "pub",
+        "name": "Der Biergarten",
+        "website": "http://beergardensacramento.com/",
+        "@timestamp": "2014-10-21T17:38:51Z",
+        "@version": "2",
+        "@changeset": "26239020",
+        "@user": "Bill Leddy",
+        "@uid": "2381404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4753429,
+          38.5741309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2963068433",
+      "properties": {
+        "@id": "node/2963068433",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2155",
+        "addr:postcode": "94109",
+        "addr:street": "Polk Street",
+        "amenity": "pub",
+        "name": "The Buccaneer",
+        "@timestamp": "2015-06-13T20:32:30Z",
+        "@version": "2",
+        "@changeset": "31950593",
+        "@user": "dbaron",
+        "@uid": "481533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422051,
+          37.7966476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2981286487",
+      "properties": {
+        "@id": "node/2981286487",
+        "amenity": "pub",
+        "name": "The Beer Shed",
+        "@timestamp": "2014-07-26T14:47:49Z",
+        "@version": "1",
+        "@changeset": "24368799",
+        "@user": "nereocystis",
+        "@uid": "1835512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2879928,
+          37.7995945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2985993675",
+      "properties": {
+        "@id": "node/2985993675",
+        "amenity": "pub",
+        "name": "River City Brewing Company",
+        "@timestamp": "2014-07-29T13:54:18Z",
+        "@version": "1",
+        "@changeset": "24422234",
+        "@user": "juergenb22",
+        "@uid": "1660455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5014523,
+          38.5813236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3104205291",
+      "properties": {
+        "@id": "node/3104205291",
+        "amenity": "pub",
+        "name": "Burgers and Brew",
+        "@timestamp": "2014-09-30T18:37:53Z",
+        "@version": "1",
+        "@changeset": "25774397",
+        "@user": "sbucknam",
+        "@uid": "2369675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4911746,
+          38.5699933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3128223901",
+      "properties": {
+        "@id": "node/3128223901",
+        "addr:city": "Sacramento",
+        "addr:housenumber": "1730",
+        "addr:street": "Broadway",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "New Helvetia Brewing",
+        "website": "http://newhelvetiabrew.com/",
+        "@timestamp": "2014-10-13T21:04:21Z",
+        "@version": "3",
+        "@changeset": "26059642",
+        "@user": "Bill Leddy",
+        "@uid": "2381404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4899398,
+          38.5607772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150723399",
+      "properties": {
+        "@id": "node/3150723399",
+        "amenity": "pub",
+        "craft": "brewery",
+        "name": "Bike Dog Brewing Co.",
+        "website": "http://www.bikedogbrewing.com",
+        "@timestamp": "2014-10-26T15:07:33Z",
+        "@version": "1",
+        "@changeset": "26342767",
+        "@user": "Bill Leddy",
+        "@uid": "2381404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5433734,
+          38.5660851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3191146332",
+      "properties": {
+        "@id": "node/3191146332",
+        "addr:city": "Berkeley",
+        "addr:housenumber": "2181",
+        "addr:postcode": "94704",
+        "addr:street": "Shattuck Avenue",
+        "amenity": "pub",
+        "beer_garden": "yes",
+        "food": "yes",
+        "microbrewery": "yes",
+        "name": "Jupiter",
+        "website": "http://www.jupiterbeer.com/",
+        "wheelchair": "yes",
+        "@timestamp": "2015-06-13T06:48:18Z",
+        "@version": "3",
+        "@changeset": "31936392",
+        "@user": "wheelmap_visitor",
+        "@uid": "290680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.267652,
+          37.8697957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3226063809",
+      "properties": {
+        "@id": "node/3226063809",
+        "addr:city": "Davis",
+        "addr:housenumber": "211",
+        "addr:postcode": "95616",
+        "addr:state": "CA",
+        "addr:street": "G Street",
+        "amenity": "pub",
+        "name": "The Davis Beer Shoppe",
+        "phone": "(530) 756-5212",
+        "@timestamp": "2014-12-09T07:19:22Z",
+        "@version": "1",
+        "@changeset": "27350047",
+        "@user": "spift",
+        "@uid": "2510626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7392333,
+          38.5440371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3284627748",
+      "properties": {
+        "@id": "node/3284627748",
+        "addr:city": "Sacramento",
+        "addr:housenumber": "3651",
+        "addr:postcode": "95816",
+        "addr:state": "CA",
+        "addr:street": "J Street",
+        "amenity": "pub",
+        "name": "Bonn Lair",
+        "phone": "916-455-7155",
+        "website": "http://www.bonnlair.com/",
+        "@timestamp": "2015-01-12T19:51:01Z",
+        "@version": "1",
+        "@changeset": "28096121",
+        "@user": "suburbanplankton",
+        "@uid": "1870699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.457457,
+          38.5708439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3382505786",
+      "properties": {
+        "@id": "node/3382505786",
+        "amenity": "pub",
+        "name": "O'Mally's Irish Pub",
+        "phone": "+1 916-492-1230",
+        "website": "https://www.facebook.com/pages/OMallys-Irish-Pub/204448252900754",
+        "@timestamp": "2015-03-04T08:53:47Z",
+        "@version": "1",
+        "@changeset": "29239117",
+        "@user": "thevirginian",
+        "@uid": "2441939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5046083,
+          38.5815966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3384050136",
+      "properties": {
+        "@id": "node/3384050136",
+        "amenity": "pub",
+        "name": "Streets of London Pub",
+        "opening_hours": "Mo-Su 11:00-02:00",
+        "outdoor_seating": "yes",
+        "phone": "+1 916-498-1388",
+        "website": "http://streetsoflondon.net/",
+        "@timestamp": "2015-03-05T09:13:15Z",
+        "@version": "1",
+        "@changeset": "29261511",
+        "@user": "thevirginian",
+        "@uid": "2441939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4822889,
+          38.5771723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3393396123",
+      "properties": {
+        "@id": "node/3393396123",
+        "amenity": "pub",
+        "name": "Last Drop Tavern",
+        "@timestamp": "2015-03-11T06:18:39Z",
+        "@version": "1",
+        "@changeset": "29398050",
+        "@user": "ssjazz",
+        "@uid": "2747838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4086344,
+          37.7899317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3455071284",
+      "properties": {
+        "@id": "node/3455071284",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2255",
+        "addr:postcode": "94109",
+        "addr:state": "CA",
+        "addr:street": "Polk Street",
+        "amenity": "pub",
+        "name": "Woods Polk Station",
+        "opening_hours": "Mo-We 17:00-22:00;Th 17:00-24:00;Fr-Sa 12:00-01:00;Su 12:00-22:00",
+        "@timestamp": "2015-04-14T04:11:47Z",
+        "@version": "1",
+        "@changeset": "30203312",
+        "@user": "mpmckenna8",
+        "@uid": "1213904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4222726,
+          37.7976947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3458089306",
+      "properties": {
+        "@id": "node/3458089306",
+        "addr:city": "Pittsburg",
+        "addr:housenumber": "300",
+        "addr:postcode": "94565",
+        "addr:street": "Cumberland St",
+        "amenity": "pub",
+        "name": "E.J. Phair Brewing Co.",
+        "website": "http://www.ejphair.com/",
+        "@timestamp": "2015-06-01T20:23:20Z",
+        "@version": "2",
+        "@changeset": "31647125",
+        "@user": "spatialmorphology",
+        "@uid": "2779308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8824742,
+          38.0330804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3487536785",
+      "properties": {
+        "@id": "node/3487536785",
+        "amenity": "pub",
+        "name": "Anchor Brewing Beer Garden",
+        "@timestamp": "2015-04-29T20:32:27Z",
+        "@version": "1",
+        "@changeset": "30636931",
+        "@user": "mpmckenna8",
+        "@uid": "1213904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3891543,
+          37.7760795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3565077293",
+      "properties": {
+        "@id": "node/3565077293",
+        "addr:city": "Oakland",
+        "addr:housenumber": "444",
+        "addr:postcode": "94607",
+        "addr:state": "ca",
+        "addr:street": "Harrison Street",
+        "amenity": "pub",
+        "contact:email": "info@independentbrewing.com",
+        "contact:phone": "+1-510-698-2337",
+        "contact:website": "http://independentbrewing.com/",
+        "craft": "brewery",
+        "microbrewery": "yes",
+        "name": "Independent Brewing Company",
+        "opening_hours": "Fr 16:00-20:00; Sa-Su 14:00-18:00",
+        "@timestamp": "2015-06-21T16:05:48Z",
+        "@version": "3",
+        "@changeset": "32120342",
+        "@user": "nereocystis",
+        "@uid": "1835512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2711853,
+          37.7964297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3586306183",
+      "properties": {
+        "@id": "node/3586306183",
+        "amenity": "pub",
+        "name": "Redcoats",
+        "@timestamp": "2015-06-10T16:38:56Z",
+        "@version": "1",
+        "@changeset": "31875554",
+        "@user": "Aric",
+        "@uid": "87286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8756413,
+          37.662572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3637499305",
+      "properties": {
+        "@id": "node/3637499305",
+        "addr:city": "San Francisco",
+        "addr:housenumber": "449",
+        "addr:state": "CA",
+        "addr:street": "Powell Street",
+        "amenity": "pub",
+        "name": "Golden Gate Tap Room",
+        "website": "http://ggtaproom.com/",
+        "@timestamp": "2015-07-06T17:15:32Z",
+        "@version": "1",
+        "@changeset": "32453673",
+        "@user": "dchiles",
+        "@uid": "153669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4086997,
+          37.7888973
+        ]
+      }
+    }
+  ]
+}

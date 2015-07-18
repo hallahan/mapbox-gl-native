@@ -24,6 +24,10 @@ import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.TextView;
 
+import com.cocoahero.android.geojson.Feature;
+import com.cocoahero.android.geojson.FeatureCollection;
+import com.cocoahero.android.geojson.GeoJSON;
+import com.cocoahero.android.geojson.Geometry;
 import com.mapbox.mapboxgl.annotations.Marker;
 import com.mapbox.mapboxgl.annotations.MarkerOptions;
 import com.mapbox.mapboxgl.annotations.Polygon;
@@ -37,10 +41,12 @@ import com.mapzen.android.lost.api.LocationRequest;
 import com.mapzen.android.lost.api.LocationServices;
 import com.mapzen.android.lost.api.LostApiClient;
 
+import org.json.JSONArray;
 import org.json.JSONException;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.List;
 
 public class MainActivity extends ActionBarActivity {
 
@@ -277,7 +283,7 @@ public class MainActivity extends ActionBarActivity {
         if (enableMarkers) {
             if (!mIsMarkersOn) {
                 mIsMarkersOn = true;
-                addMarkers();
+//                addMarkers();
                 addPolyline();
                 addPolygon();
             }
@@ -303,12 +309,55 @@ public class MainActivity extends ActionBarActivity {
                 .sprite("dog-park-15")
                 .title("Cheese Room")
                 .snippet("The only air conditioned room on the property!"));
+
+        try {
+            String geojsonStr = Util.loadStringFromAssets(this, "geojson/points/campsites.geojson");
+            LatLng[] latLngs = Util.parsePointsCoordinates(geojsonStr);
+            for (LatLng latLng : latLngs) {
+                map.addMarker(new MarkerOptions()
+                        .position(latLng)
+                        .sprite("campsite-15"));
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+
+//        try {
+//            String geojsonStr = Util.loadStringFromAssets(this, "geojson/points/gas-stations.geojson");
+//            LatLng[] latLngs = Util.parsePointsCoordinates(geojsonStr);
+//            for (LatLng latLng : latLngs) {
+//                map.addMarker(new MarkerOptions()
+//                        .position(latLng)
+//                        .sprite("fuel-15"));
+//            }
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        } catch (JSONException e) {
+//            e.printStackTrace();
+//        }
+
+        try {
+            String geojsonStr = Util.loadStringFromAssets(this, "geojson/points/restaurants.geojson");
+            LatLng[] latLngs = Util.parsePointsCoordinates(geojsonStr);
+            for (LatLng latLng : latLngs) {
+                map.addMarker(new MarkerOptions()
+                        .position(latLng)
+                        .sprite("restaurant-11"));
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+
     }
 
     private void addPolyline() {
         try {
-            String geojsonStr = Util.loadStringFromAssets(this, "small_line.geojson");
-            LatLng[] latLngs = Util.parseGeoJSONCoordinates(geojsonStr);
+            String geojsonStr = Util.loadStringFromAssets(this, "geojson/lines/small_line.geojson");
+            LatLng[] latLngs = Util.parseLineCoordinates(geojsonStr);
             MapView map = mMapFragment.getMap();
             Polyline line = map.addPolyline(new PolylineOptions()
                     .add(latLngs)
@@ -319,23 +368,67 @@ public class MainActivity extends ActionBarActivity {
         } catch (JSONException e) {
             e.printStackTrace();
         }
-    }
 
-    private void addPolygon() {
-        String geojsonStr = null;
         try {
-            geojsonStr = Util.loadStringFromAssets(this, "small_poly.geojson");
-            LatLng[] latLngs = Util.parseGeoJSONCoordinates(geojsonStr);
+            String geojsonStr = Util.loadStringFromAssets(this, "geojson/lines/road-ca-128.geojson");
+            LatLng[] latLngs = Util.parseLineCoordinates(geojsonStr);
             MapView map = mMapFragment.getMap();
-            Polygon polygon = map.addPolygon(new PolygonOptions()
+            Polyline line = map.addPolyline(new PolylineOptions()
                     .add(latLngs)
-                    .strokeColor(Color.MAGENTA)
-                    .fillColor(Color.BLUE));
+                    .width(4)
+                    .color(Color.CYAN));
         } catch (IOException e) {
             e.printStackTrace();
         } catch (JSONException e) {
             e.printStackTrace();
         }
+    }
+
+    private void addPolygon() {
+        String geojsonStr = null;
+        MapView map = mMapFragment.getMap();
+//        try {
+//            geojsonStr = Util.loadStringFromAssets(this, "geojson/polygons/small_poly.geojson");
+//            LatLng[] latLngs = Util.parseLineCoordinates(geojsonStr);
+//            MapView map = mMapFragment.getMap();
+//            Polygon polygon = map.addPolygon(new PolygonOptions()
+//                    .add(latLngs)
+//                    .strokeColor(Color.MAGENTA)
+//                    .fillColor(Color.BLUE));
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        } catch (JSONException e) {
+//            e.printStackTrace();
+//        }
+
+        try {
+            geojsonStr = Util.loadStringFromAssets(this, "geojson/polygons/sf-buildings.geojson");
+            FeatureCollection collection = (FeatureCollection) GeoJSON.parse(geojsonStr);
+            List<Feature> features = collection.getFeatures();
+            for (Feature f : features) {
+                Geometry g = f.getGeometry();
+                JSONArray coordinates = (JSONArray) g.toJSON().get("coordinates");
+                coordinates = coordinates.getJSONArray(0);
+                int len = coordinates.length();
+                LatLng[] poly = new LatLng[len];
+                for (int i = 0; i < coordinates.length(); i++) {
+                    JSONArray latLngArr = coordinates.getJSONArray(i);
+                    double lng = latLngArr.getDouble(0);
+                    double lat = latLngArr.getDouble(1);
+                    poly[i] = new LatLng(lat, lng);
+                }
+                map.addPolygon(new PolygonOptions()
+                        .add(poly)
+                        .strokeColor(Color.BLACK)
+                        .fillColor(Color.GREEN));
+            }
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+
     }
 
     private void removeAnnotations() {
